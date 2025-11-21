@@ -1,0 +1,24 @@
+{
+  "lesson_id": "L3_SimpleSentences",
+  "title": "Basic Sentences and Verb Forms",
+  "level": "Beginner",
+  "focus": ["पठति", "गच्छति", "खादति", "शृणोति", "पठामः", "गच्छामः"],
+  "questions": [
+    {
+      "type": "mcq",
+      "prompt": "What is the meaning of 'गच्छामः'?",
+      "options": ["We go", "He goes", "I sleep"],
+      "correct": "We go"
+    },
+    {
+      "type": "translate",
+      "prompt": "Translate to Sanskrit: 'He reads a book.'",
+      "answer": "सः पुस्तकम् पठति"
+    },
+    {
+      "type": "fill_in_blank",
+      "prompt": "अहं जलम् ______ (I drink water)",
+      "correct": "पिबामि"
+    }
+  ]
+}
