@@ -43,67 +43,119 @@ function App() {
   }
 
   return (
-    <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h1>📘 Sanskrit Duolingo</h1>
+    <div
+      style={{
+        minHeight: "100vh",
+        padding: "20px",
+        fontFamily: "'Poppins', Arial, sans-serif",
+        background: "linear-gradient(to bottom, #d4f0e7, #ffffff)",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+      }}
+    >
+      <h1 style={{ color: "#2f855a", fontSize: "2.5rem", marginBottom: "20px" }}>
+        📘 Sanskrit Duolingo
+      </h1>
 
       {!currentLesson ? (
         <>
-          <h2>Select a Lesson</h2>
-          {lessonList.map((lesson) => (
-            <button
-              key={lesson.lesson_id}
-              onClick={() => setCurrentLesson(lesson)}
-              style={{
-                margin: "8px",
-                padding: "10px 15px",
-                fontSize: "16px",
-                cursor: "pointer",
-              }}
-            >
-              {lesson.title}
-            </button>
-          ))}
+          <h2 style={{ marginBottom: "15px", color: "#276749" }}>Select a Lesson</h2>
+          <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
+            {lessonList.map((lesson) => (
+              <button
+                key={lesson.lesson_id}
+                onClick={() => setCurrentLesson(lesson)}
+                style={{
+                  margin: "8px",
+                  padding: "15px 25px",
+                  fontSize: "18px",
+                  borderRadius: "12px",
+                  backgroundColor: "#38a169",
+                  color: "#fff",
+                  border: "none",
+                  cursor: "pointer",
+                  boxShadow: "0px 4px 6px rgba(0,0,0,0.1)",
+                  transition: "0.2s",
+                }}
+                onMouseOver={(e) => (e.target.style.backgroundColor = "#2f855a")}
+                onMouseOut={(e) => (e.target.style.backgroundColor = "#38a169")}
+              >
+                {lesson.title}
+              </button>
+            ))}
+          </div>
         </>
       ) : currentQuestion ? (
-        <>
-          <h2>{currentLesson.title}</h2>
-          <p>
-            Question {currentQuestionIndex + 1} /{" "}
-            {currentLesson.questions.length}
+        <div
+          style={{
+            width: "90%",
+            maxWidth: "600px",
+            background: "#fff",
+            padding: "25px",
+            borderRadius: "16px",
+            boxShadow: "0px 6px 10px rgba(0,0,0,0.15)",
+            textAlign: "center",
+          }}
+        >
+          <h2 style={{ color: "#2f855a" }}>{currentLesson.title}</h2>
+          <p style={{ margin: "10px 0", color: "#4a5568" }}>
+            Question {currentQuestionIndex + 1} / {currentLesson.questions.length}
           </p>
-          <p><strong>{currentQuestion.prompt}</strong></p>
+          <p style={{ fontSize: "1.2rem", margin: "15px 0" }}>{currentQuestion.prompt}</p>
 
-          {currentQuestion.options ? (
+          {currentQuestion.options &&
             currentQuestion.options.map((opt) => (
               <button
                 key={opt}
                 onClick={() => handleAnswer(opt)}
                 disabled={selectedAnswer !== ""}
                 style={{
-                  margin: "5px",
-                  padding: "10px",
-                  cursor: "pointer",
-                  background:
+                  display: "block",
+                  width: "80%",
+                  margin: "8px auto",
+                  padding: "12px",
+                  fontSize: "16px",
+                  borderRadius: "10px",
+                  border: "1px solid #38a169",
+                  backgroundColor:
                     selectedAnswer === opt
                       ? opt === currentQuestion.correct
-                        ? "lightgreen"
-                        : "salmon"
-                      : "",
+                        ? "#48bb78"
+                        : "#f56565"
+                      : "#edfdf5",
+                  color: "#1a202c",
+                  cursor: "pointer",
+                  transition: "0.2s",
                 }}
               >
                 {opt}
               </button>
-            ))
-          ) : (
-            <p>🤔 Non-MCQ questions coming soon...</p>
-          )}
+            ))}
 
-          <p>{feedback}</p>
+          <p
+            style={{
+              marginTop: "15px",
+              fontWeight: "600",
+              color: feedback.includes("Correct") ? "#48bb78" : "#f56565",
+            }}
+          >
+            {feedback}
+          </p>
 
           {selectedAnswer !== "" && (
             <button
               onClick={nextQuestion}
-              style={{ marginTop: "10px", padding: "10px" }}
+              style={{
+                marginTop: "20px",
+                padding: "12px 20px",
+                borderRadius: "10px",
+                backgroundColor: "#3182ce",
+                color: "#fff",
+                fontSize: "16px",
+                cursor: "pointer",
+                border: "none",
+              }}
             >
               Next ➡️
             </button>
@@ -111,11 +163,20 @@ function App() {
 
           <button
             onClick={resetLesson}
-            style={{ marginTop: "20px", display: "block" }}
+            style={{
+              marginTop: "20px",
+              display: "block",
+              backgroundColor: "#e2e8f0",
+              color: "#1a202c",
+              borderRadius: "10px",
+              padding: "10px 15px",
+              cursor: "pointer",
+              border: "none",
+            }}
           >
             🔙 Back to Lessons
           </button>
-        </>
+        </div>
       ) : null}
     </div>
   );
