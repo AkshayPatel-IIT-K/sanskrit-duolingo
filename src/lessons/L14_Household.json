@@ -1,0 +1,37 @@
+{
+  "lesson_id": "L14_Household",
+  "title": "Household Items",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Chair'?",
+      "options": [
+        "पीठिका",
+        "पात्रम्",
+        "दर्वी",
+        "तूलिका"
+      ],
+      "correct": "पीठिका"
+    },
+    {
+      "prompt": "Sanskrit for 'Cup'?",
+      "options": [
+        "पात्रम्",
+        "तूलिका",
+        "कूपी",
+        "सूची"
+      ],
+      "correct": "पात्रम्"
+    },
+    {
+      "prompt": "Sanskrit for 'Lamp'?",
+      "options": [
+        "दीपः",
+        "पीठिका",
+        "कुर्सी",
+        "गडिका"
+      ],
+      "correct": "दीपः"
+    }
+  ]
+}

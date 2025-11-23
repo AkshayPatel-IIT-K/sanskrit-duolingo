@@ -1,0 +1,34 @@
+{
+  "lesson_id": "L18_Weather",
+  "title": "Weather",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Rain'?",
+      "options": [
+        "वृष्टिः",
+        "हिमः",
+        "मेघः"
+      ],
+      "correct": "वृष्टिः"
+    },
+    {
+      "prompt": "Sanskrit for 'Cloud'?",
+      "options": [
+        "मेघः",
+        "वृष्टिः",
+        "अनिलः"
+      ],
+      "correct": "मेघः"
+    },
+    {
+      "prompt": "Sanskrit for 'Wind'?",
+      "options": [
+        "अनिलः",
+        "वृष्टिः",
+        "हिमः"
+      ],
+      "correct": "अनिलः"
+    }
+  ]
+}
