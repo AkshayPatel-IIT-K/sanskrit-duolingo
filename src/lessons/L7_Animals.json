@@ -1,0 +1,25 @@
+{
+  "lesson_id": "L7_Animals",
+  "title": "Animals",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Cow'?",
+      "options": ["गायत्री", "गौः", "अश्वः", "वृकः"],
+      "correct": "गौः",
+      "answer": "गौः"
+    },
+    {
+      "prompt": "Sanskrit for 'Horse'?",
+      "options": ["अश्वः", "गजः", "मृगः", "वृकः"],
+      "correct": "अश्वः",
+      "answer": "अश्वः"
+    },
+    {
+      "prompt": "Sanskrit for 'Elephant'?",
+      "options": ["गजः", "अश्वः", "कुक्कुरः", "उष्ट्रः"],
+      "correct": "गजः",
+      "answer": "गजः"
+    }
+  ]
+}

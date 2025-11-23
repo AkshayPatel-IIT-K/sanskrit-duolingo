@@ -1,0 +1,34 @@
+{
+  "lesson_id": "L20_Adjectives",
+  "title": "Adjectives",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Big'?",
+      "options": [
+        "महान्",
+        "लघु",
+        "दीर्घ"
+      ],
+      "correct": "महान्"
+    },
+    {
+      "prompt": "Sanskrit for 'Small'?",
+      "options": [
+        "लघु",
+        "महान्",
+        "विस्तीर्ण"
+      ],
+      "correct": "लघु"
+    },
+    {
+      "prompt": "Sanskrit for 'Long'?",
+      "options": [
+        "दीर्घ",
+        "लघु",
+        "महान्"
+      ],
+      "correct": "दीर्घ"
+    }
+  ]
+}

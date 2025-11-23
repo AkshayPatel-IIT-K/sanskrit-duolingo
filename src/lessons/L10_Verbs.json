@@ -1,0 +1,25 @@
+{
+  "lesson_id": "L10_Verbs",
+  "title": "Basic Verbs",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'He goes'?",
+      "options": ["सः गच्छति", "अहम् गच्छामि", "त्वं गच्छसि", "ते गच्छन्ति"],
+      "correct": "सः गच्छति",
+      "answer": "सः गच्छति"
+    },
+    {
+      "prompt": "Sanskrit for 'I eat'?",
+      "options": ["अहम् खादामि", "त्वं खादसि", "सः खादति", "भवान् खादति"],
+      "correct": "अहम् खादामि",
+      "answer": "अहम् खादामि"
+    },
+    {
+      "prompt": "Sanskrit for 'You drink'?",
+      "options": ["त्वं पिबसि", "अहम् पिबामि", "सः पिबति", "ते पिबन्ति"],
+      "correct": "त्वं पिबसि",
+      "answer": "त्वं पिबसि"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lesson_id": "L13_Months",
+  "title": "Months",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'January'?",
+      "options": [
+        "पौषः",
+        "फाल्गुनः",
+        "चैत्रः"
+      ],
+      "correct": "पौषः"
+    },
+    {
+      "prompt": "Sanskrit for 'March'?",
+      "options": [
+        "चैत्रः",
+        "आषाढः",
+        "फाल्गुनः"
+      ],
+      "correct": "चैत्रः"
+    },
+    {
+      "prompt": "Sanskrit for 'August'?",
+      "options": [
+        "श्रावणः",
+        "आषाढः",
+        "अग्रहायणः"
+      ],
+      "correct": "श्रावणः"
+    }
+  ]
+}

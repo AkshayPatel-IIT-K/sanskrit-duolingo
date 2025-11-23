@@ -1,0 +1,34 @@
+{
+  "lesson_id": "L15_Clothes",
+  "title": "Clothes",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Shirt'?",
+      "options": [
+        "कंचुकम्",
+        "उत्तरम्",
+        "वस्त्रम्"
+      ],
+      "correct": "कंचुकम्"
+    },
+    {
+      "prompt": "Sanskrit for 'Cloth'?",
+      "options": [
+        "वस्त्रम्",
+        "कंचुकम्",
+        "पादत्राणम्"
+      ],
+      "correct": "वस्त्रम्"
+    },
+    {
+      "prompt": "Sanskrit for 'Shoes'?",
+      "options": [
+        "पादत्राणम्",
+        "कंचुकम्",
+        "दुपट्टा"
+      ],
+      "correct": "पादत्राणम्"
+    }
+  ]
+}
