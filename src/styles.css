@@ -1,20 +1,379 @@
+/* src/styles.css
+   Temple Gold Aesthetic — Luxury
+   - Gold + beige tones
+   - Subtle textures
+   - Paisley motif background (light, repeating)
+   - Readable typography for Latin + Devanagari
+   - Decorative dividers and card styles
+*/
+
+/* --------- Palette --------- */
 :root{
-  --bg:#f5e6c8;
-  --panel:#fdf9f1;
-  --card:#fffaf0;
-  --border:#e8d9bd;
-  --gold:#c49a39;
-  --goldDeep:#9c772c;
-  --text:#4e3d28;
-  --muted:#6d5a43;
-  --accent:#b08537;
+  --bg-ivory: #fbf7ef;        /* main page background */
+  --linen: #f5e6c8;          /* soft linen panels */
+  --card: #fffaf0;           /* card background */
+  --border: #ecd9b7;         /* subtle border */
+  --gold: #c89a3a;           /* gold accent */
+  --gold-2: #b27a1f;         /* deeper gold */
+  --text: #3f3528;           /* main text */
+  --muted: #7a654f;          /* muted text */
+  --accent: #b08537;         /* accent buttons */
+  --green: #2f6b4a;
+  --shadow: rgba(63,53,40,0.08);
 }
+
+/* --------- Base --------- */
 *{box-sizing:border-box}
-body{margin:0;font-family:Inter, Poppins, system-ui, -apple-system; background:var(--bg); color:var(--text)}
-a{color:inherit}
-.container{max-width:1100px;margin:20px auto;padding:18px}
-button{font-family:inherit; cursor:pointer}
-.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
-.card{background:var(--panel);padding:14px;border-radius:12px;border:1px solid var(--border)}
-.small{font-size:12px;color:var(--muted)}
-.flex{display:flex;gap:12px;align-items:center}
+html,body,#root{height:100%}
+body{
+  margin:0;
+  font-family: "Inter", "Noto Sans Devanagari", "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background-color: var(--bg-ivory);
+  color: var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  line-height:1.45;
+  -webkit-font-feature-settings: "liga" 1;
+}
+
+/* --------- Paisley motif background ---------
+   Layered approach:
+   1. subtle paper texture (tiny grain using linear-gradients)
+   2. low-opacity repeating paisley motif (SVG-like via radial-gradients) to suggest Indian textile.
+   3. center content card on top.
+-------------------------------------------------*/
+
+/* subtle linen texture */
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  background-image:
+    radial-gradient(circle at 10% 20%, rgba(0,0,0,0.015) 0 1px, transparent 1px),
+    radial-gradient(circle at 60% 80%, rgba(0,0,0,0.01) 0 1px, transparent 1px);
+  opacity:0.6;
+  z-index:0;
+}
+
+/* paisley motif layer (light and decorative) */
+body::after{
+  content:"";
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  /* This can be replaced by a real paisley image placed at /assets/paisley.png */
+  background-image:
+    /* subtle repeated motif made of gradients to emulate paisley */
+    radial-gradient(18px 28px at 10% 15%, rgba(184,140,58,0.06) 0 30%, transparent 31%),
+    radial-gradient(22px 34px at 35% 40%, rgba(184,140,58,0.05) 0 30%, transparent 31%),
+    radial-gradient(16px 24px at 75% 70%, rgba(184,140,58,0.055) 0 30%, transparent 31%);
+  background-repeat: repeat;
+  mix-blend-mode: multiply;
+  opacity:0.95;
+  z-index:0;
+  transform: rotate(-6deg) scale(1.06);
+}
+
+/* If you prefer to use an uploaded paisley image, place it in /assets/paisley.png
+   and uncomment the following rule (and remove the radial-gradient above):
+*/
+/*
+body::after{
+  background-image: url('/assets/paisley.png');
+  background-size: 420px;
+  background-repeat: repeat;
+  opacity:0.14;
+  mix-blend-mode: multiply;
+  z-index:0;
+}
+*/
+
+/* --------- Layout container --------- */
+.container {
+  max-width: 1100px;
+  margin: 28px auto;
+  padding: 28px;
+  position: relative;
+  z-index: 2; /* above background motifs */
+}
+
+/* --------- Header / Masthead --------- */
+.header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:18px;
+  margin-bottom: 20px;
+}
+
+.brand {
+  display:flex;
+  gap:14px;
+  align-items:center;
+}
+
+.brand-badge {
+  width:64px;
+  height:64px;
+  border-radius:14px;
+  background: linear-gradient(180deg, var(--gold) 0%, var(--gold-2) 100%);
+  color: #fff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-weight:700;
+  font-size:28px;
+  box-shadow: 0 8px 26px rgba(172,131,42,0.15);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+/* brand text */
+.brand-name {
+  font-size:20px;
+  font-weight:800;
+  letter-spacing:0.2px;
+}
+.brand-sub {
+  font-size:13px;
+  color:var(--muted);
+  margin-top:4px;
+}
+
+/* right area */
+.header-actions {
+  display:flex;
+  gap:12px;
+  align-items:center;
+}
+
+/* small stat card */
+.stat-card {
+  background: linear-gradient(180deg, rgba(255,255,255,0.85), rgba(255,255,255,0.7));
+  padding:8px 12px;
+  border-radius:10px;
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 18px var(--shadow);
+  text-align:center;
+  min-width:84px;
+}
+
+/* --------- Main grid --------- */
+.grid {
+  display:grid;
+  grid-template-columns: 340px 1fr;
+  gap:20px;
+}
+
+/* left column (lesson list) */
+.sidebar {
+  position:relative;
+  background: linear-gradient(180deg, var(--linen), rgba(255,255,255,0.6));
+  padding:16px;
+  border-radius:14px;
+  border:1px solid var(--border);
+  box-shadow: 0 18px 40px rgba(64,48,24,0.06);
+}
+
+/* right column (content) */
+.content {
+  background: linear-gradient(180deg, rgba(255,255,255,0.7), var(--card));
+  padding:22px;
+  border-radius:14px;
+  border:1px solid var(--border);
+  box-shadow: 0 18px 40px rgba(64,48,24,0.06);
+  min-height:540px;
+}
+
+/* --------- Lesson card in sidebar --------- */
+.lesson-card {
+  display:flex;
+  gap:12px;
+  align-items:center;
+  padding:12px;
+  border-radius:12px;
+  margin-bottom:10px;
+  cursor:pointer;
+  transition: transform .18s ease, box-shadow .18s ease;
+  border: 1px solid transparent;
+}
+
+.lesson-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(60,40,10,0.08);
+  border-color: rgba(180,140,45,0.14);
+}
+
+/* lesson icon */
+.lesson-icon {
+  width:56px;
+  height:56px;
+  border-radius:10px;
+  background:linear-gradient(180deg, #fff8f1, #fff3dd);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:22px;
+  box-shadow: inset 0 -6px 12px rgba(0,0,0,0.03);
+  border:1px solid var(--border);
+}
+
+/* lesson title */
+.lesson-title {
+  font-weight:800;
+  font-size:15px;
+}
+.lesson-meta {
+  color:var(--muted);
+  font-size:12px;
+  margin-top:4px;
+}
+
+/* locked look (if still want locks) */
+.lesson-card.locked {
+  opacity:0.62;
+  cursor:default;
+  transform:none;
+  box-shadow:none;
+}
+
+/* decorative divider (flourish) */
+.divider {
+  height:1px;
+  margin:14px 0;
+  background: linear-gradient(90deg, transparent, rgba(196,154,58,0.18), transparent);
+  position:relative;
+}
+/* small Sanskrit flourish center */
+.divider:before{
+  content:"ॐ";
+  display:block;
+  width:36px;
+  margin:-22px auto 0 auto;
+  text-align:center;
+  color:rgba(78,61,40,0.14);
+  font-weight:900;
+  transform:translateY(-6px);
+}
+
+/* --------- Content / question card --------- */
+.q-card {
+  padding:20px;
+  border-radius:12px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.9), rgba(255,250,240,0.95));
+  border: 1px solid var(--border);
+  box-shadow: 0 20px 50px rgba(60,40,10,0.06);
+}
+
+.q-header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+}
+.q-title {
+  font-size:20px;
+  font-weight:900;
+  letter-spacing:0.1px;
+}
+.q-sub {
+  color:var(--muted);
+  font-size:13px;
+}
+
+/* prompt */
+.prompt {
+  margin-top:14px;
+  font-size:26px;
+  font-weight:800;
+  color:var(--text);
+  line-height:1.2;
+  display:flex;
+  gap:12px;
+  align-items:center;
+}
+
+/* options grid */
+.options {
+  margin-top:16px;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap:12px;
+}
+
+/* option button */
+.opt {
+  padding:12px 14px;
+  border-radius:12px;
+  text-align:left;
+  background: linear-gradient(180deg, rgba(255,255,255,0.95), #fffdf7);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 22px rgba(80,60,18,0.04);
+  font-weight:700;
+  transition: transform .12s ease, background .12s ease;
+}
+.opt:hover { transform: translateY(-3px); }
+.opt.correct { background: linear-gradient(180deg, #f6fff0, #eefbdc); border-color: rgba(60,160,80,0.14); }
+.opt.wrong   { background: linear-gradient(180deg, #fff6f6, #ffecec); border-color: rgba(180,80,80,0.12); }
+
+/* action row */
+.actions {
+  margin-top:14px;
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+
+/* main primary button */
+.btn-primary {
+  background: linear-gradient(180deg, var(--gold), var(--gold-2));
+  color:#fff;
+  padding:10px 14px;
+  border-radius:10px;
+  border:none;
+  font-weight:800;
+  box-shadow: 0 10px 30px rgba(172,131,42,0.16);
+}
+
+/* secondary */
+.btn-ghost {
+  background:transparent;
+  border:1px solid var(--border);
+  padding:10px 12px;
+  border-radius:10px;
+}
+
+/* feedback text */
+.feedback {
+  font-weight:900;
+  color: var(--green);
+  margin-right:8px;
+}
+
+/* footer signature */
+.footer-sign {
+  position:fixed;
+  right:18px;
+  bottom:18px;
+  background: linear-gradient(180deg, #fffef9, #fff8ee);
+  padding:12px;
+  border-radius:8px;
+  border:1px solid var(--border);
+  text-align:right;
+  box-shadow: 0 12px 30px rgba(60,40,10,0.08);
+}
+
+/* small screens */
+@media (max-width:880px){
+  .grid { grid-template-columns: 1fr; }
+  .sidebar { order:2 }
+  .content { order:1 }
+  .brand-name { font-size:18px }
+  .prompt { font-size:20px }
+  .options { grid-template-columns: 1fr; }
+}
+
+/* --------- Tiny utility classes --------- */
+.mt12{margin-top:12px}
+.text-muted{color:var(--muted)}
+.center{text-align:center}
