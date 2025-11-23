@@ -1,25 +1,31 @@
 {
-  "lesson_id": "L1_Greetings",
+  "lesson_id": "L1",
   "title": "Greetings",
   "level": "Beginner",
   "questions": [
     {
       "prompt": "How do you say 'Hello' in Sanskrit?",
-      "options": ["नमस्ते", "धन्यवादः", "क्षन्तव्यः", "भवतु"],
-      "correct": "नमस्ते",
-      "answer": "नमस्ते"
+      "prompt_to_speak": "Hello",
+      "prompt_display": "Hello",
+      "options": [
+        "नमस्ते",
+        "स्वागतम्",
+        "शुभ प्रभात",
+        "नमः"
+      ],
+      "correct": "नमस्ते"
     },
     {
-      "prompt": "Sanskrit for 'Good morning'?",
-      "options": ["शुभप्रभातम्", "शुभरात्रिः", "शुभमध्याह्नम्", "नमस्ते"],
-      "correct": "शुभप्रभातम्",
-      "answer": "शुभप्रभातम्"
-    },
-    {
-      "prompt": "Sanskrit for 'Good night'?",
-      "options": ["शुभरात्रिः", "शुभसन्ध्या", "शुभप्रभातम्", "धन्यवादः"],
-      "correct": "शुभरात्रिः",
-      "answer": "शुभरात्रिः"
+      "prompt": "How do you say 'Good morning' in Sanskrit?",
+      "prompt_to_speak": "Good morning",
+      "prompt_display": "Good morning",
+      "options": [
+        "शुभ प्रभात",
+        "नमस्ते",
+        "स्वागतम्",
+        "शुभ संध्या"
+      ],
+      "correct": "शुभ प्रभात"
     }
   ]
 }

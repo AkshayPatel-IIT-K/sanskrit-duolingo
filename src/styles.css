@@ -1,0 +1,15 @@
+:root{
+  --bg:#f5e6c8;
+  --panel:#fdf9f1;
+  --card:#fffaf0;
+  --border:#e8d9bd;
+  --gold:#c49a39;
+  --goldDeep:#9c772c;
+  --text:#4e3d28;
+  --muted:#6d5a43;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter, Poppins, system-ui, -apple-system; background:var(--bg); color:var(--text)}
+a{color:inherit}
+.container{max-width:1100px;margin:20px auto;padding:18px}
+button{font-family:inherit}
