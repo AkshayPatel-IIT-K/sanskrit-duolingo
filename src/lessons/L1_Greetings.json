@@ -4,7 +4,7 @@
   "level": "Beginner",
   "questions": [
     {
-      "prompt": "How do you say 'Hello' testing in Sanskrit?",
+      "prompt": "How do you say 'Hello' in Sanskrit?",
       "options": ["नमस्ते", "धन्यवादः", "क्षन्तव्यः", "भवतु"],
       "correct": "नमस्ते",
       "answer": "नमस्ते"

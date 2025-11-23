@@ -1,6 +1,12 @@
 import { useEffect, useState } from "react";
 import lessons from "./lessons";
-const lessonList = Object.values(lessons);
+
+// Sort lessons by their lesson_id (L1, L2, L3...)
+const lessonList = Object.values(lessons).sort((a, b) => {
+  const n1 = parseInt(a.lesson_id.replace(/\D+/g, ""));
+  const n2 = parseInt(b.lesson_id.replace(/\D+/g, ""));
+  return n1 - n2;
+});
 
 /**
  * Utility: normalize answer string for comparison
