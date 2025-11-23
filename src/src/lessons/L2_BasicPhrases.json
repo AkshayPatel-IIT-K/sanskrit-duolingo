@@ -1,0 +1,25 @@
+{
+  "lesson_id": "L2_BasicPhrases",
+  "title": "Basic Phrases",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Thank you'?",
+      "options": ["धन्यवादः", "कृपया", "नमस्ते", "क्षन्तव्यः"],
+      "correct": "धन्यवादः",
+      "answer": "धन्यवादः"
+    },
+    {
+      "prompt": "Sanskrit for 'Please'?",
+      "options": ["कृपया", "नमस्ते", "अस्तु", "शुभम्"],
+      "correct": "कृपया",
+      "answer": "कृपया"
+    },
+    {
+      "prompt": "Sanskrit for 'Sorry'?",
+      "options": ["क्षम्यताम्", "धन्यवादः", "कृपया", "शुभरात्रिः"],
+      "correct": "क्षम्यताम्",
+      "answer": "क्षम्यताम्"
+    }
+  ]
+}

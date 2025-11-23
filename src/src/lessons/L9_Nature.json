@@ -1,0 +1,25 @@
+{
+  "lesson_id": "L9_Nature",
+  "title": "Nature",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Sun'?",
+      "options": ["सूर्यः", "चन्द्रः", "वायुः", "अग्निः"],
+      "correct": "सूर्यः",
+      "answer": "सूर्यः"
+    },
+    {
+      "prompt": "Sanskrit for 'Moon'?",
+      "options": ["चन्द्रः", "सूर्यः", "अग्निः", "धरित्री"],
+      "correct": "चन्द्रः",
+      "answer": "चन्द्रः"
+    },
+    {
+      "prompt": "Sanskrit for 'Earth'?",
+      "options": ["धरित्री", "गगनम्", "अग्निः", "जलम्"],
+      "correct": "धरित्री",
+      "answer": "धरित्री"
+    }
+  ]
+}

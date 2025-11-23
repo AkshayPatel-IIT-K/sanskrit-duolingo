@@ -1,0 +1,25 @@
+{
+  "lesson_id": "L5_Colors",
+  "title": "Colors",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Red'?",
+      "options": ["रक्त", "नील", "हरित", "धवल"],
+      "correct": "रक्त",
+      "answer": "रक्त"
+    },
+    {
+      "prompt": "Sanskrit for 'Blue'?",
+      "options": ["नील", "रक्त", "हरित", "पिङ्गल"],
+      "correct": "नील",
+      "answer": "नील"
+    },
+    {
+      "prompt": "Sanskrit for 'White'?",
+      "options": ["धवल", "कृष्ण", "रक्त", "नील"],
+      "correct": "धवल",
+      "answer": "धवल"
+    }
+  ]
+}

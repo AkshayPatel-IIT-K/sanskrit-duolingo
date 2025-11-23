@@ -1,0 +1,25 @@
+{
+  "lesson_id": "L8_Food",
+  "title": "Food",
+  "level": "Beginner",
+  "questions": [
+    {
+      "prompt": "Sanskrit for 'Water'?",
+      "options": ["जलम्", "दुग्धम्", "मधु", "घृतम्"],
+      "correct": "जलम्",
+      "answer": "जलम्"
+    },
+    {
+      "prompt": "Sanskrit for 'Milk'?",
+      "options": ["दुग्धम्", "जलम्", "मधु", "घृतम्"],
+      "correct": "दुग्धम्",
+      "answer": "दुग्धम्"
+    },
+    {
+      "prompt": "Sanskrit for 'Honey'?",
+      "options": ["मधु", "दुग्धम्", "तैलम्", "घृतम्"],
+      "correct": "मधु",
+      "answer": "मधु"
+    }
+  ]
+}
