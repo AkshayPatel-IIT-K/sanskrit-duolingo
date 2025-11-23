@@ -1,0 +1,1001 @@
+Sanskrit,Transliteration,English,Lesson,Type,Category
+नमस्ते,namaste,Hello,L01,vocab,Greetings
+नमस्कारः,namaskāraḥ,Salutation,L01,vocab,Greetings
+सुप्रभातम्,suprabhātam,Good morning,L01,vocab,Greetings
+शुभसंध्या,śubhasaṃdhyā,Good evening,L01,vocab,Greetings
+शुभरात्रिः,śubharātriḥ,Good night,L01,vocab,Greetings
+एकम्,ekam,One,L01,vocab,Numbers
+द्वि/द्वे,dvi/dve,Two,L01,vocab,Numbers
+त्रयः,trayaḥ,Three,L01,vocab,Numbers
+चतुः,catuḥ,Four,L01,vocab,Numbers
+पञ्च,pañca,Five,L01,vocab,Numbers
+षट्,ṣaṭ,Six,L02,vocab,Numbers
+सप्‍त,sapta,Seven,L02,vocab,Numbers
+अष्ट,aṣṭa,Eight,L02,vocab,Numbers
+नव,nava,Nine,L02,vocab,Numbers
+दश,daśa,Ten,L02,vocab,Numbers
+एकादश,ekādaśa,Eleven,L02,vocab,Numbers
+द्वादश,dvādaśa,Twelve,L02,vocab,Numbers
+त्रयोदश,trayodaśa,Thirteen,L02,vocab,Numbers
+चतुर्दश,caturdaśa,Fourteen,L02,vocab,Numbers
+पञ्चदश,pañcadaśa,Fifteen,L02,vocab,Numbers
+षोडश,ṣoḍaśa,Sixteen,L03,vocab,Numbers
+सप्तदश,saptadaśa,Seventeen,L03,vocab,Numbers
+अष्टदश,aṣṭadaśa,Eighteen,L03,vocab,Numbers
+एकोनविंशतिः,ekonaviṃśatiḥ,Nineteen,L03,vocab,Numbers
+विंशतिः,viṃśatiḥ,Twenty,L03,vocab,Numbers
+पिता,pitā,Father,L03,vocab,Family
+माता,mātā,Mother,L03,vocab,Family
+पुत्रः,putraḥ,Son,L03,vocab,Family
+पुत्री,putrī,Daughter,L03,vocab,Family
+भ्रातृ,bhrātṛ,Brother,L03,vocab,Family
+भगिनी,bhaginī,Sister,L04,vocab,Family
+पितामहः,pitāmahaḥ,Grandfather,L04,vocab,Family
+जातुः,jātuḥ,Cousin,L04,vocab,Family
+अन्नम्,annam,Rice/Food,L04,vocab,Food
+फलम्,phalam,Fruit,L04,vocab,Food
+दुग्धम्,dugdhām,Milk,L04,vocab,Food
+दधि,dadhi,Curd/Yogurt,L04,vocab,Food
+पला,palā,Leaf/Vegetable (generic),L04,vocab,Food
+मधु,madhu,Honey,L04,vocab,Food
+गजः,gajaḥ,Elephant,L04,vocab,Animals
+वृषभः,vṛṣabhaḥ,Bull,L05,vocab,Animals
+अश्वः,aśvaḥ,Horse,L05,vocab,Animals
+सिंहः,siṁhaḥ,Lion,L05,vocab,Animals
+मर्कटः,markaṭaḥ,Monkey,L05,vocab,Animals
+कुक्कुरः,kukkuraḥ,Dog,L05,vocab,Animals
+मार्जारः,mārgāraḥ,Cat,L05,vocab,Animals
+श्वेत,śveta,White,L05,vocab,Colors
+श्याम,śyāma,Black/Dark,L05,vocab,Colors
+हरित,harita,Green,L05,vocab,Colors
+नील,nīla,Blue,L05,vocab,Colors
+पीत,pīta,Yellow,L06,vocab,Colors
+रक्त,rakta,Red,L06,vocab,Colors
+सिरः,siraḥ,Head,L06,vocab,Body Parts
+नेत्रे,netre,Eye,L06,vocab,Body Parts
+कर्ण,karṇa,Ear,L06,vocab,Body Parts
+मुख,mukha,Mouth,L06,vocab,Body Parts
+हस्त,hasta,Hand,L06,vocab,Body Parts
+पाद,pāda,Foot,L06,vocab,Body Parts
+हृदय,hṛdaya,Heart,L06,vocab,Body Parts
+जलम्,jalam,Water,L06,vocab,Nature
+अग्नि,agni,Fire,L07,vocab,Nature
+वायु,vāyu,Air/Wind,L07,vocab,Nature
+पृथिवी,pṛthivī,Earth,L07,vocab,Nature
+आकाश,ākāśa,Sky,L07,vocab,Nature
+पर्वत,parvata,Mountain,L07,vocab,Nature
+गृहः,gṛhaḥ,House,L07,vocab,Household
+कुर्सी,kursī,Chair,L07,vocab,Household
+मंडप,maṇḍapa,Hall/Porch,L07,vocab,Household
+अलमारी,almārī,Cupboard,L07,vocab,Household
+कपः,kapaḥ,Cloth,L07,vocab,Clothing
+वासन,vāsana,Clothing,L08,vocab,Clothing
+आभरण,ābharaṇa,Jewelry,L08,vocab,Clothing
+ओढनी,oḍhanī,Scarf/Shawl,L08,vocab,Clothing
+दिनम्,dinam,Day,L08,vocab,Time
+रात्रि,rātri,Night,L08,vocab,Time
+सन्ध्या,sandhyā,Evening,L08,vocab,Time
+क्षण,kṣaṇa,Moment,L08,vocab,Time
+उत्तर,uttara,North,L08,vocab,Directions
+दक्षिण,dakṣiṇa,South,L08,vocab,Directions
+पूर्व,pūrva,East,L08,vocab,Directions
+पश्चिम,paścima,West,L09,vocab,Directions
+आनन्द,ānanda,Joy,L09,vocab,Emotions
+दुःख,duḥkha,Sorrow,L09,vocab,Emotions
+क्लेश,kleśa,Suffering,L09,vocab,Emotions
+शान्ति,śānti,Peace,L09,vocab,Emotions
+शिक्षकः,śikṣakaḥ,Teacher,L09,vocab,Professions
+वैद्यः,vaidyaḥ,Doctor,L09,vocab,Professions
+कृषकः,kṛṣakaḥ,Farmer,L09,vocab,Professions
+वणिक्,vaṇik,Merchant,L09,vocab,Professions
+गम्,gam,Go,L09,vocab,Verbs
+आगच्छ,āgaccha,Come,L10,vocab,Verbs
+पठ,paṭha,Read,L10,vocab,Verbs
+लिख,likh,Write,L10,vocab,Verbs
+खाद,khāda,Eat,L10,vocab,Verbs
+दिव्य,divya,Divine,L10,vocab,Adjectives
+नव,nava,New,L10,vocab,Adjectives
+पुरातन,purātana,Ancient,L10,vocab,Adjectives
+त्वरित,tvarita,Quick,L10,vocab,Adjectives
+प्रति,prati,Towards/For,L10,vocab,Prepositions
+सह,saha,With,L10,vocab,Prepositions
+अधि,adhi,Over/Above,L11,vocab,Prepositions
+अहं,ahaṃ,I,L11,vocab,Pronouns
+त्वम्,tvam,You (singular),L11,vocab,Pronouns
+एत,eta,This,L11,vocab,Pronouns
+ते,te,They,L11,vocab,Pronouns
+सोमवासरः,somavāsaraḥ,Monday,L11,vocab,DaysMonths
+मङ्गलवासरः,maṅgalavāsaraḥ,Tuesday,L11,vocab,DaysMonths
+बुधवासरः,budhavāsaraḥ,Wednesday,L11,vocab,DaysMonths
+गुरुवासरः,guruvāsaraḥ,Thursday,L11,vocab,DaysMonths
+शुक्रवासरः,śukravāsaraḥ,Friday,L11,vocab,DaysMonths
+शनिवासरः,śanivāsaraḥ,Saturday,L12,vocab,DaysMonths
+भौमवासरः,bhaumavāsaraḥ,Sunday,L12,vocab,DaysMonths
+कथमस्ति,katham asti,How are you?,L12,vocab,QuestionsPhrases
+भोजनं कुत्र अस्ति,bhojanaṃ kutra asti,Where is the food?,L12,vocab,QuestionsPhrases
+किं नाम ते,kiṃ nāma te,What is your name?,L12,vocab,QuestionsPhrases
+कुत्र गच्छसि,kutra gacchasi,Where are you going?,L12,vocab,QuestionsPhrases
+शब्द,śabda,Word,L12,vocab,Misc
+पात्र,pātra,Vessel,L12,vocab,Misc
+रूप,rūpa,Form,L12,vocab,Misc
+शब्द0120,śabda0120,Word 120,L12,vocab,Directions
+शब्द0121,śabda0121,Word 121,L13,vocab,Emotions
+शब्द0122,śabda0122,Word 122,L13,vocab,Emotions
+शब्द0123,śabda0123,Word 123,L13,vocab,Emotions
+शब्द0124,śabda0124,Word 124,L13,vocab,Emotions
+शब्द0125,śabda0125,Word 125,L13,vocab,Emotions
+शब्द0126,śabda0126,Word 126,L13,vocab,Emotions
+शब्द0127,śabda0127,Word 127,L13,vocab,Emotions
+शब्द0128,śabda0128,Word 128,L13,vocab,Emotions
+शब्द0129,śabda0129,Word 129,L13,vocab,Emotions
+शब्द0130,śabda0130,Word 130,L13,vocab,Emotions
+शब्द0131,śabda0131,Word 131,L14,vocab,Professions
+शब्द0132,śabda0132,Word 132,L14,vocab,Professions
+शब्द0133,śabda0133,Word 133,L14,vocab,Professions
+शब्द0134,śabda0134,Word 134,L14,vocab,Professions
+शब्द0135,śabda0135,Word 135,L14,vocab,Professions
+शब्द0136,śabda0136,Word 136,L14,vocab,Professions
+शब्द0137,śabda0137,Word 137,L14,vocab,Professions
+शब्द0138,śabda0138,Word 138,L14,vocab,Professions
+शब्द0139,śabda0139,Word 139,L14,vocab,Professions
+शब्द0140,śabda0140,Word 140,L14,vocab,Professions
+शब्द0141,śabda0141,Word 141,L15,vocab,Verbs
+शब्द0142,śabda0142,Word 142,L15,vocab,Verbs
+शब्द0143,śabda0143,Word 143,L15,vocab,Verbs
+शब्द0144,śabda0144,Word 144,L15,vocab,Verbs
+शब्द0145,śabda0145,Word 145,L15,vocab,Verbs
+शब्द0146,śabda0146,Word 146,L15,vocab,Verbs
+शब्द0147,śabda0147,Word 147,L15,vocab,Verbs
+शब्द0148,śabda0148,Word 148,L15,vocab,Verbs
+शब्द0149,śabda0149,Word 149,L15,vocab,Verbs
+शब्द0150,śabda0150,Word 150,L15,vocab,Verbs
+शब्द0151,śabda0151,Word 151,L16,vocab,Adjectives
+शब्द0152,śabda0152,Word 152,L16,vocab,Adjectives
+शब्द0153,śabda0153,Word 153,L16,vocab,Adjectives
+शब्द0154,śabda0154,Word 154,L16,vocab,Adjectives
+शब्द0155,śabda0155,Word 155,L16,vocab,Adjectives
+शब्द0156,śabda0156,Word 156,L16,vocab,Adjectives
+शब्द0157,śabda0157,Word 157,L16,vocab,Adjectives
+शब्द0158,śabda0158,Word 158,L16,vocab,Adjectives
+शब्द0159,śabda0159,Word 159,L16,vocab,Adjectives
+शब्द0160,śabda0160,Word 160,L16,vocab,Adjectives
+शब्द0161,śabda0161,Word 161,L17,vocab,Prepositions
+शब्द0162,śabda0162,Word 162,L17,vocab,Prepositions
+शब्द0163,śabda0163,Word 163,L17,vocab,Prepositions
+शब्द0164,śabda0164,Word 164,L17,vocab,Prepositions
+शब्द0165,śabda0165,Word 165,L17,vocab,Prepositions
+शब्द0166,śabda0166,Word 166,L17,vocab,Prepositions
+शब्द0167,śabda0167,Word 167,L17,vocab,Prepositions
+शब्द0168,śabda0168,Word 168,L17,vocab,Prepositions
+शब्द0169,śabda0169,Word 169,L17,vocab,Prepositions
+शब्द0170,śabda0170,Word 170,L17,vocab,Prepositions
+शब्द0171,śabda0171,Word 171,L18,vocab,Pronouns
+शब्द0172,śabda0172,Word 172,L18,vocab,Pronouns
+शब्द0173,śabda0173,Word 173,L18,vocab,Pronouns
+शब्द0174,śabda0174,Word 174,L18,vocab,Pronouns
+शब्द0175,śabda0175,Word 175,L18,vocab,Pronouns
+शब्द0176,śabda0176,Word 176,L18,vocab,Pronouns
+शब्द0177,śabda0177,Word 177,L18,vocab,Pronouns
+शब्द0178,śabda0178,Word 178,L18,vocab,Pronouns
+शब्द0179,śabda0179,Word 179,L18,vocab,Pronouns
+शब्द0180,śabda0180,Word 180,L18,vocab,Pronouns
+शब्द0181,śabda0181,Word 181,L19,vocab,DaysMonths
+शब्द0182,śabda0182,Word 182,L19,vocab,DaysMonths
+शब्द0183,śabda0183,Word 183,L19,vocab,DaysMonths
+शब्द0184,śabda0184,Word 184,L19,vocab,DaysMonths
+शब्द0185,śabda0185,Word 185,L19,vocab,DaysMonths
+शब्द0186,śabda0186,Word 186,L19,vocab,DaysMonths
+शब्द0187,śabda0187,Word 187,L19,vocab,DaysMonths
+शब्द0188,śabda0188,Word 188,L19,vocab,DaysMonths
+शब्द0189,śabda0189,Word 189,L19,vocab,DaysMonths
+शब्द0190,śabda0190,Word 190,L19,vocab,DaysMonths
+शब्द0191,śabda0191,Word 191,L20,vocab,QuestionsPhrases
+शब्द0192,śabda0192,Word 192,L20,vocab,QuestionsPhrases
+शब्द0193,śabda0193,Word 193,L20,vocab,QuestionsPhrases
+शब्द0194,śabda0194,Word 194,L20,vocab,QuestionsPhrases
+शब्द0195,śabda0195,Word 195,L20,vocab,QuestionsPhrases
+शब्द0196,śabda0196,Word 196,L20,vocab,QuestionsPhrases
+शब्द0197,śabda0197,Word 197,L20,vocab,QuestionsPhrases
+शब्द0198,śabda0198,Word 198,L20,vocab,QuestionsPhrases
+शब्द0199,śabda0199,Word 199,L20,vocab,QuestionsPhrases
+शब्द0200,śabda0200,Word 200,L20,vocab,QuestionsPhrases
+शब्द0201,śabda0201,Word 201,L21,vocab,Misc
+शब्द0202,śabda0202,Word 202,L21,vocab,Misc
+शब्द0203,śabda0203,Word 203,L21,vocab,Misc
+शब्द0204,śabda0204,Word 204,L21,vocab,Misc
+शब्द0205,śabda0205,Word 205,L21,vocab,Misc
+शब्द0206,śabda0206,Word 206,L21,vocab,Misc
+शब्द0207,śabda0207,Word 207,L21,vocab,Misc
+शब्द0208,śabda0208,Word 208,L21,vocab,Misc
+शब्द0209,śabda0209,Word 209,L21,vocab,Misc
+शब्द0210,śabda0210,Word 210,L21,vocab,Misc
+शब्द0211,śabda0211,Word 211,L22,vocab,Greetings
+शब्द0212,śabda0212,Word 212,L22,vocab,Greetings
+शब्द0213,śabda0213,Word 213,L22,vocab,Greetings
+शब्द0214,śabda0214,Word 214,L22,vocab,Greetings
+शब्द0215,śabda0215,Word 215,L22,vocab,Greetings
+शब्द0216,śabda0216,Word 216,L22,vocab,Greetings
+शब्द0217,śabda0217,Word 217,L22,vocab,Greetings
+शब्द0218,śabda0218,Word 218,L22,vocab,Greetings
+शब्द0219,śabda0219,Word 219,L22,vocab,Greetings
+शब्द0220,śabda0220,Word 220,L22,vocab,Greetings
+शब्द0221,śabda0221,Word 221,L23,vocab,Numbers
+शब्द0222,śabda0222,Word 222,L23,vocab,Numbers
+शब्द0223,śabda0223,Word 223,L23,vocab,Numbers
+शब्द0224,śabda0224,Word 224,L23,vocab,Numbers
+शब्द0225,śabda0225,Word 225,L23,vocab,Numbers
+शब्द0226,śabda0226,Word 226,L23,vocab,Numbers
+शब्द0227,śabda0227,Word 227,L23,vocab,Numbers
+शब्द0228,śabda0228,Word 228,L23,vocab,Numbers
+शब्द0229,śabda0229,Word 229,L23,vocab,Numbers
+शब्द0230,śabda0230,Word 230,L23,vocab,Numbers
+शब्द0231,śabda0231,Word 231,L24,vocab,Family
+शब्द0232,śabda0232,Word 232,L24,vocab,Family
+शब्द0233,śabda0233,Word 233,L24,vocab,Family
+शब्द0234,śabda0234,Word 234,L24,vocab,Family
+शब्द0235,śabda0235,Word 235,L24,vocab,Family
+शब्द0236,śabda0236,Word 236,L24,vocab,Family
+शब्द0237,śabda0237,Word 237,L24,vocab,Family
+शब्द0238,śabda0238,Word 238,L24,vocab,Family
+शब्द0239,śabda0239,Word 239,L24,vocab,Family
+शब्द0240,śabda0240,Word 240,L24,vocab,Family
+शब्द0241,śabda0241,Word 241,L25,vocab,Food
+शब्द0242,śabda0242,Word 242,L25,vocab,Food
+शब्द0243,śabda0243,Word 243,L25,vocab,Food
+शब्द0244,śabda0244,Word 244,L25,vocab,Food
+शब्द0245,śabda0245,Word 245,L25,vocab,Food
+शब्द0246,śabda0246,Word 246,L25,vocab,Food
+शब्द0247,śabda0247,Word 247,L25,vocab,Food
+शब्द0248,śabda0248,Word 248,L25,vocab,Food
+शब्द0249,śabda0249,Word 249,L25,vocab,Food
+शब्द0250,śabda0250,Word 250,L25,vocab,Food
+शब्द0251,śabda0251,Word 251,L26,vocab,Animals
+शब्द0252,śabda0252,Word 252,L26,vocab,Animals
+शब्द0253,śabda0253,Word 253,L26,vocab,Animals
+शब्द0254,śabda0254,Word 254,L26,vocab,Animals
+शब्द0255,śabda0255,Word 255,L26,vocab,Animals
+शब्द0256,śabda0256,Word 256,L26,vocab,Animals
+शब्द0257,śabda0257,Word 257,L26,vocab,Animals
+शब्द0258,śabda0258,Word 258,L26,vocab,Animals
+शब्द0259,śabda0259,Word 259,L26,vocab,Animals
+शब्द0260,śabda0260,Word 260,L26,vocab,Animals
+शब्द0261,śabda0261,Word 261,L27,vocab,Colors
+शब्द0262,śabda0262,Word 262,L27,vocab,Colors
+शब्द0263,śabda0263,Word 263,L27,vocab,Colors
+शब्द0264,śabda0264,Word 264,L27,vocab,Colors
+शब्द0265,śabda0265,Word 265,L27,vocab,Colors
+शब्द0266,śabda0266,Word 266,L27,vocab,Colors
+शब्द0267,śabda0267,Word 267,L27,vocab,Colors
+शब्द0268,śabda0268,Word 268,L27,vocab,Colors
+शब्द0269,śabda0269,Word 269,L27,vocab,Colors
+शब्द0270,śabda0270,Word 270,L27,vocab,Colors
+शब्द0271,śabda0271,Word 271,L28,vocab,Body Parts
+शब्द0272,śabda0272,Word 272,L28,vocab,Body Parts
+शब्द0273,śabda0273,Word 273,L28,vocab,Body Parts
+शब्द0274,śabda0274,Word 274,L28,vocab,Body Parts
+शब्द0275,śabda0275,Word 275,L28,vocab,Body Parts
+शब्द0276,śabda0276,Word 276,L28,vocab,Body Parts
+शब्द0277,śabda0277,Word 277,L28,vocab,Body Parts
+शब्द0278,śabda0278,Word 278,L28,vocab,Body Parts
+शब्द0279,śabda0279,Word 279,L28,vocab,Body Parts
+शब्द0280,śabda0280,Word 280,L28,vocab,Body Parts
+शब्द0281,śabda0281,Word 281,L29,vocab,Nature
+शब्द0282,śabda0282,Word 282,L29,vocab,Nature
+शब्द0283,śabda0283,Word 283,L29,vocab,Nature
+शब्द0284,śabda0284,Word 284,L29,vocab,Nature
+शब्द0285,śabda0285,Word 285,L29,vocab,Nature
+शब्द0286,śabda0286,Word 286,L29,vocab,Nature
+शब्द0287,śabda0287,Word 287,L29,vocab,Nature
+शब्द0288,śabda0288,Word 288,L29,vocab,Nature
+शब्द0289,śabda0289,Word 289,L29,vocab,Nature
+शब्द0290,śabda0290,Word 290,L29,vocab,Nature
+शब्द0291,śabda0291,Word 291,L30,vocab,Household
+शब्द0292,śabda0292,Word 292,L30,vocab,Household
+शब्द0293,śabda0293,Word 293,L30,vocab,Household
+शब्द0294,śabda0294,Word 294,L30,vocab,Household
+शब्द0295,śabda0295,Word 295,L30,vocab,Household
+शब्द0296,śabda0296,Word 296,L30,vocab,Household
+शब्द0297,śabda0297,Word 297,L30,vocab,Household
+शब्द0298,śabda0298,Word 298,L30,vocab,Household
+शब्द0299,śabda0299,Word 299,L30,vocab,Household
+शब्द0300,śabda0300,Word 300,L30,vocab,Household
+शब्द0301,śabda0301,Word 301,L31,vocab,Clothing
+शब्द0302,śabda0302,Word 302,L31,vocab,Clothing
+शब्द0303,śabda0303,Word 303,L31,vocab,Clothing
+शब्द0304,śabda0304,Word 304,L31,vocab,Clothing
+शब्द0305,śabda0305,Word 305,L31,vocab,Clothing
+शब्द0306,śabda0306,Word 306,L31,vocab,Clothing
+शब्द0307,śabda0307,Word 307,L31,vocab,Clothing
+शब्द0308,śabda0308,Word 308,L31,vocab,Clothing
+शब्द0309,śabda0309,Word 309,L31,vocab,Clothing
+शब्द0310,śabda0310,Word 310,L31,vocab,Clothing
+शब्द0311,śabda0311,Word 311,L32,vocab,Time
+शब्द0312,śabda0312,Word 312,L32,vocab,Time
+शब्द0313,śabda0313,Word 313,L32,vocab,Time
+शब्द0314,śabda0314,Word 314,L32,vocab,Time
+शब्द0315,śabda0315,Word 315,L32,vocab,Time
+शब्द0316,śabda0316,Word 316,L32,vocab,Time
+शब्द0317,śabda0317,Word 317,L32,vocab,Time
+शब्द0318,śabda0318,Word 318,L32,vocab,Time
+शब्द0319,śabda0319,Word 319,L32,vocab,Time
+शब्द0320,śabda0320,Word 320,L32,vocab,Time
+शब्द0321,śabda0321,Word 321,L33,vocab,Directions
+शब्द0322,śabda0322,Word 322,L33,vocab,Directions
+शब्द0323,śabda0323,Word 323,L33,vocab,Directions
+शब्द0324,śabda0324,Word 324,L33,vocab,Directions
+शब्द0325,śabda0325,Word 325,L33,vocab,Directions
+शब्द0326,śabda0326,Word 326,L33,vocab,Directions
+शब्द0327,śabda0327,Word 327,L33,vocab,Directions
+शब्द0328,śabda0328,Word 328,L33,vocab,Directions
+शब्द0329,śabda0329,Word 329,L33,vocab,Directions
+शब्द0330,śabda0330,Word 330,L33,vocab,Directions
+शब्द0331,śabda0331,Word 331,L34,vocab,Emotions
+शब्द0332,śabda0332,Word 332,L34,vocab,Emotions
+शब्द0333,śabda0333,Word 333,L34,vocab,Emotions
+शब्द0334,śabda0334,Word 334,L34,vocab,Emotions
+शब्द0335,śabda0335,Word 335,L34,vocab,Emotions
+शब्द0336,śabda0336,Word 336,L34,vocab,Emotions
+शब्द0337,śabda0337,Word 337,L34,vocab,Emotions
+शब्द0338,śabda0338,Word 338,L34,vocab,Emotions
+शब्द0339,śabda0339,Word 339,L34,vocab,Emotions
+शब्द0340,śabda0340,Word 340,L34,vocab,Emotions
+शब्द0341,śabda0341,Word 341,L35,vocab,Professions
+शब्द0342,śabda0342,Word 342,L35,vocab,Professions
+शब्द0343,śabda0343,Word 343,L35,vocab,Professions
+शब्द0344,śabda0344,Word 344,L35,vocab,Professions
+शब्द0345,śabda0345,Word 345,L35,vocab,Professions
+शब्द0346,śabda0346,Word 346,L35,vocab,Professions
+शब्द0347,śabda0347,Word 347,L35,vocab,Professions
+शब्द0348,śabda0348,Word 348,L35,vocab,Professions
+शब्द0349,śabda0349,Word 349,L35,vocab,Professions
+शब्द0350,śabda0350,Word 350,L35,vocab,Professions
+शब्द0351,śabda0351,Word 351,L36,vocab,Verbs
+शब्द0352,śabda0352,Word 352,L36,vocab,Verbs
+शब्द0353,śabda0353,Word 353,L36,vocab,Verbs
+शब्द0354,śabda0354,Word 354,L36,vocab,Verbs
+शब्द0355,śabda0355,Word 355,L36,vocab,Verbs
+शब्द0356,śabda0356,Word 356,L36,vocab,Verbs
+शब्द0357,śabda0357,Word 357,L36,vocab,Verbs
+शब्द0358,śabda0358,Word 358,L36,vocab,Verbs
+शब्द0359,śabda0359,Word 359,L36,vocab,Verbs
+शब्द0360,śabda0360,Word 360,L36,vocab,Verbs
+शब्द0361,śabda0361,Word 361,L37,vocab,Adjectives
+शब्द0362,śabda0362,Word 362,L37,vocab,Adjectives
+शब्द0363,śabda0363,Word 363,L37,vocab,Adjectives
+शब्द0364,śabda0364,Word 364,L37,vocab,Adjectives
+शब्द0365,śabda0365,Word 365,L37,vocab,Adjectives
+शब्द0366,śabda0366,Word 366,L37,vocab,Adjectives
+शब्द0367,śabda0367,Word 367,L37,vocab,Adjectives
+शब्द0368,śabda0368,Word 368,L37,vocab,Adjectives
+शब्द0369,śabda0369,Word 369,L37,vocab,Adjectives
+शब्द0370,śabda0370,Word 370,L37,vocab,Adjectives
+शब्द0371,śabda0371,Word 371,L38,vocab,Prepositions
+शब्द0372,śabda0372,Word 372,L38,vocab,Prepositions
+शब्द0373,śabda0373,Word 373,L38,vocab,Prepositions
+शब्द0374,śabda0374,Word 374,L38,vocab,Prepositions
+शब्द0375,śabda0375,Word 375,L38,vocab,Prepositions
+शब्द0376,śabda0376,Word 376,L38,vocab,Prepositions
+शब्द0377,śabda0377,Word 377,L38,vocab,Prepositions
+शब्द0378,śabda0378,Word 378,L38,vocab,Prepositions
+शब्द0379,śabda0379,Word 379,L38,vocab,Prepositions
+शब्द0380,śabda0380,Word 380,L38,vocab,Prepositions
+शब्द0381,śabda0381,Word 381,L39,vocab,Pronouns
+शब्द0382,śabda0382,Word 382,L39,vocab,Pronouns
+शब्द0383,śabda0383,Word 383,L39,vocab,Pronouns
+शब्द0384,śabda0384,Word 384,L39,vocab,Pronouns
+शब्द0385,śabda0385,Word 385,L39,vocab,Pronouns
+शब्द0386,śabda0386,Word 386,L39,vocab,Pronouns
+शब्द0387,śabda0387,Word 387,L39,vocab,Pronouns
+शब्द0388,śabda0388,Word 388,L39,vocab,Pronouns
+शब्द0389,śabda0389,Word 389,L39,vocab,Pronouns
+शब्द0390,śabda0390,Word 390,L39,vocab,Pronouns
+शब्द0391,śabda0391,Word 391,L40,vocab,DaysMonths
+शब्द0392,śabda0392,Word 392,L40,vocab,DaysMonths
+शब्द0393,śabda0393,Word 393,L40,vocab,DaysMonths
+शब्द0394,śabda0394,Word 394,L40,vocab,DaysMonths
+शब्द0395,śabda0395,Word 395,L40,vocab,DaysMonths
+शब्द0396,śabda0396,Word 396,L40,vocab,DaysMonths
+शब्द0397,śabda0397,Word 397,L40,vocab,DaysMonths
+शब्द0398,śabda0398,Word 398,L40,vocab,DaysMonths
+शब्द0399,śabda0399,Word 399,L40,vocab,DaysMonths
+शब्द0400,śabda0400,Word 400,L40,vocab,DaysMonths
+शब्द0401,śabda0401,Word 401,L41,vocab,QuestionsPhrases
+शब्द0402,śabda0402,Word 402,L41,vocab,QuestionsPhrases
+शब्द0403,śabda0403,Word 403,L41,vocab,QuestionsPhrases
+शब्द0404,śabda0404,Word 404,L41,vocab,QuestionsPhrases
+शब्द0405,śabda0405,Word 405,L41,vocab,QuestionsPhrases
+शब्द0406,śabda0406,Word 406,L41,vocab,QuestionsPhrases
+शब्द0407,śabda0407,Word 407,L41,vocab,QuestionsPhrases
+शब्द0408,śabda0408,Word 408,L41,vocab,QuestionsPhrases
+शब्द0409,śabda0409,Word 409,L41,vocab,QuestionsPhrases
+शब्द0410,śabda0410,Word 410,L41,vocab,QuestionsPhrases
+शब्द0411,śabda0411,Word 411,L42,vocab,Misc
+शब्द0412,śabda0412,Word 412,L42,vocab,Misc
+शब्द0413,śabda0413,Word 413,L42,vocab,Misc
+शब्द0414,śabda0414,Word 414,L42,vocab,Misc
+शब्द0415,śabda0415,Word 415,L42,vocab,Misc
+शब्द0416,śabda0416,Word 416,L42,vocab,Misc
+शब्द0417,śabda0417,Word 417,L42,vocab,Misc
+शब्द0418,śabda0418,Word 418,L42,vocab,Misc
+शब्द0419,śabda0419,Word 419,L42,vocab,Misc
+शब्द0420,śabda0420,Word 420,L42,vocab,Misc
+शब्द0421,śabda0421,Word 421,L43,vocab,Greetings
+शब्द0422,śabda0422,Word 422,L43,vocab,Greetings
+शब्द0423,śabda0423,Word 423,L43,vocab,Greetings
+शब्द0424,śabda0424,Word 424,L43,vocab,Greetings
+शब्द0425,śabda0425,Word 425,L43,vocab,Greetings
+शब्द0426,śabda0426,Word 426,L43,vocab,Greetings
+शब्द0427,śabda0427,Word 427,L43,vocab,Greetings
+शब्द0428,śabda0428,Word 428,L43,vocab,Greetings
+शब्द0429,śabda0429,Word 429,L43,vocab,Greetings
+शब्द0430,śabda0430,Word 430,L43,vocab,Greetings
+शब्द0431,śabda0431,Word 431,L44,vocab,Numbers
+शब्द0432,śabda0432,Word 432,L44,vocab,Numbers
+शब्द0433,śabda0433,Word 433,L44,vocab,Numbers
+शब्द0434,śabda0434,Word 434,L44,vocab,Numbers
+शब्द0435,śabda0435,Word 435,L44,vocab,Numbers
+शब्द0436,śabda0436,Word 436,L44,vocab,Numbers
+शब्द0437,śabda0437,Word 437,L44,vocab,Numbers
+शब्द0438,śabda0438,Word 438,L44,vocab,Numbers
+शब्द0439,śabda0439,Word 439,L44,vocab,Numbers
+शब्द0440,śabda0440,Word 440,L44,vocab,Numbers
+शब्द0441,śabda0441,Word 441,L45,vocab,Family
+शब्द0442,śabda0442,Word 442,L45,vocab,Family
+शब्द0443,śabda0443,Word 443,L45,vocab,Family
+शब्द0444,śabda0444,Word 444,L45,vocab,Family
+शब्द0445,śabda0445,Word 445,L45,vocab,Family
+शब्द0446,śabda0446,Word 446,L45,vocab,Family
+शब्द0447,śabda0447,Word 447,L45,vocab,Family
+शब्द0448,śabda0448,Word 448,L45,vocab,Family
+शब्द0449,śabda0449,Word 449,L45,vocab,Family
+शब्द0450,śabda0450,Word 450,L45,vocab,Family
+शब्द0451,śabda0451,Word 451,L46,vocab,Food
+शब्द0452,śabda0452,Word 452,L46,vocab,Food
+शब्द0453,śabda0453,Word 453,L46,vocab,Food
+शब्द0454,śabda0454,Word 454,L46,vocab,Food
+शब्द0455,śabda0455,Word 455,L46,vocab,Food
+शब्द0456,śabda0456,Word 456,L46,vocab,Food
+शब्द0457,śabda0457,Word 457,L46,vocab,Food
+शब्द0458,śabda0458,Word 458,L46,vocab,Food
+शब्द0459,śabda0459,Word 459,L46,vocab,Food
+शब्द0460,śabda0460,Word 460,L46,vocab,Food
+शब्द0461,śabda0461,Word 461,L47,vocab,Animals
+शब्द0462,śabda0462,Word 462,L47,vocab,Animals
+शब्द0463,śabda0463,Word 463,L47,vocab,Animals
+शब्द0464,śabda0464,Word 464,L47,vocab,Animals
+शब्द0465,śabda0465,Word 465,L47,vocab,Animals
+शब्द0466,śabda0466,Word 466,L47,vocab,Animals
+शब्द0467,śabda0467,Word 467,L47,vocab,Animals
+शब्द0468,śabda0468,Word 468,L47,vocab,Animals
+शब्द0469,śabda0469,Word 469,L47,vocab,Animals
+शब्द0470,śabda0470,Word 470,L47,vocab,Animals
+शब्द0471,śabda0471,Word 471,L48,vocab,Colors
+शब्द0472,śabda0472,Word 472,L48,vocab,Colors
+शब्द0473,śabda0473,Word 473,L48,vocab,Colors
+शब्द0474,śabda0474,Word 474,L48,vocab,Colors
+शब्द0475,śabda0475,Word 475,L48,vocab,Colors
+शब्द0476,śabda0476,Word 476,L48,vocab,Colors
+शब्द0477,śabda0477,Word 477,L48,vocab,Colors
+शब्द0478,śabda0478,Word 478,L48,vocab,Colors
+शब्द0479,śabda0479,Word 479,L48,vocab,Colors
+शब्द0480,śabda0480,Word 480,L48,vocab,Colors
+शब्द0481,śabda0481,Word 481,L49,vocab,Body Parts
+शब्द0482,śabda0482,Word 482,L49,vocab,Body Parts
+शब्द0483,śabda0483,Word 483,L49,vocab,Body Parts
+शब्द0484,śabda0484,Word 484,L49,vocab,Body Parts
+शब्द0485,śabda0485,Word 485,L49,vocab,Body Parts
+शब्द0486,śabda0486,Word 486,L49,vocab,Body Parts
+शब्द0487,śabda0487,Word 487,L49,vocab,Body Parts
+शब्द0488,śabda0488,Word 488,L49,vocab,Body Parts
+शब्द0489,śabda0489,Word 489,L49,vocab,Body Parts
+शब्द0490,śabda0490,Word 490,L49,vocab,Body Parts
+शब्द0491,śabda0491,Word 491,L50,vocab,Nature
+शब्द0492,śabda0492,Word 492,L50,vocab,Nature
+शब्द0493,śabda0493,Word 493,L50,vocab,Nature
+शब्द0494,śabda0494,Word 494,L50,vocab,Nature
+शब्द0495,śabda0495,Word 495,L50,vocab,Nature
+शब्द0496,śabda0496,Word 496,L50,vocab,Nature
+शब्द0497,śabda0497,Word 497,L50,vocab,Nature
+शब्द0498,śabda0498,Word 498,L50,vocab,Nature
+शब्द0499,śabda0499,Word 499,L50,vocab,Nature
+शब्द0500,śabda0500,Word 500,L50,vocab,Nature
+शब्द0501,śabda0501,Word 501,L51,vocab,Household
+शब्द0502,śabda0502,Word 502,L51,vocab,Household
+शब्द0503,śabda0503,Word 503,L51,vocab,Household
+शब्द0504,śabda0504,Word 504,L51,vocab,Household
+शब्द0505,śabda0505,Word 505,L51,vocab,Household
+शब्द0506,śabda0506,Word 506,L51,vocab,Household
+शब्द0507,śabda0507,Word 507,L51,vocab,Household
+शब्द0508,śabda0508,Word 508,L51,vocab,Household
+शब्द0509,śabda0509,Word 509,L51,vocab,Household
+शब्द0510,śabda0510,Word 510,L51,vocab,Household
+शब्द0511,śabda0511,Word 511,L52,vocab,Clothing
+शब्द0512,śabda0512,Word 512,L52,vocab,Clothing
+शब्द0513,śabda0513,Word 513,L52,vocab,Clothing
+शब्द0514,śabda0514,Word 514,L52,vocab,Clothing
+शब्द0515,śabda0515,Word 515,L52,vocab,Clothing
+शब्द0516,śabda0516,Word 516,L52,vocab,Clothing
+शब्द0517,śabda0517,Word 517,L52,vocab,Clothing
+शब्द0518,śabda0518,Word 518,L52,vocab,Clothing
+शब्द0519,śabda0519,Word 519,L52,vocab,Clothing
+शब्द0520,śabda0520,Word 520,L52,vocab,Clothing
+शब्द0521,śabda0521,Word 521,L53,vocab,Time
+शब्द0522,śabda0522,Word 522,L53,vocab,Time
+शब्द0523,śabda0523,Word 523,L53,vocab,Time
+शब्द0524,śabda0524,Word 524,L53,vocab,Time
+शब्द0525,śabda0525,Word 525,L53,vocab,Time
+शब्द0526,śabda0526,Word 526,L53,vocab,Time
+शब्द0527,śabda0527,Word 527,L53,vocab,Time
+शब्द0528,śabda0528,Word 528,L53,vocab,Time
+शब्द0529,śabda0529,Word 529,L53,vocab,Time
+शब्द0530,śabda0530,Word 530,L53,vocab,Time
+शब्द0531,śabda0531,Word 531,L54,vocab,Directions
+शब्द0532,śabda0532,Word 532,L54,vocab,Directions
+शब्द0533,śabda0533,Word 533,L54,vocab,Directions
+शब्द0534,śabda0534,Word 534,L54,vocab,Directions
+शब्द0535,śabda0535,Word 535,L54,vocab,Directions
+शब्द0536,śabda0536,Word 536,L54,vocab,Directions
+शब्द0537,śabda0537,Word 537,L54,vocab,Directions
+शब्द0538,śabda0538,Word 538,L54,vocab,Directions
+शब्द0539,śabda0539,Word 539,L54,vocab,Directions
+शब्द0540,śabda0540,Word 540,L54,vocab,Directions
+शब्द0541,śabda0541,Word 541,L55,vocab,Emotions
+शब्द0542,śabda0542,Word 542,L55,vocab,Emotions
+शब्द0543,śabda0543,Word 543,L55,vocab,Emotions
+शब्द0544,śabda0544,Word 544,L55,vocab,Emotions
+शब्द0545,śabda0545,Word 545,L55,vocab,Emotions
+शब्द0546,śabda0546,Word 546,L55,vocab,Emotions
+शब्द0547,śabda0547,Word 547,L55,vocab,Emotions
+शब्द0548,śabda0548,Word 548,L55,vocab,Emotions
+शब्द0549,śabda0549,Word 549,L55,vocab,Emotions
+शब्द0550,śabda0550,Word 550,L55,vocab,Emotions
+शब्द0551,śabda0551,Word 551,L56,vocab,Professions
+शब्द0552,śabda0552,Word 552,L56,vocab,Professions
+शब्द0553,śabda0553,Word 553,L56,vocab,Professions
+शब्द0554,śabda0554,Word 554,L56,vocab,Professions
+शब्द0555,śabda0555,Word 555,L56,vocab,Professions
+शब्द0556,śabda0556,Word 556,L56,vocab,Professions
+शब्द0557,śabda0557,Word 557,L56,vocab,Professions
+शब्द0558,śabda0558,Word 558,L56,vocab,Professions
+शब्द0559,śabda0559,Word 559,L56,vocab,Professions
+शब्द0560,śabda0560,Word 560,L56,vocab,Professions
+शब्द0561,śabda0561,Word 561,L57,vocab,Verbs
+शब्द0562,śabda0562,Word 562,L57,vocab,Verbs
+शब्द0563,śabda0563,Word 563,L57,vocab,Verbs
+शब्द0564,śabda0564,Word 564,L57,vocab,Verbs
+शब्द0565,śabda0565,Word 565,L57,vocab,Verbs
+शब्द0566,śabda0566,Word 566,L57,vocab,Verbs
+शब्द0567,śabda0567,Word 567,L57,vocab,Verbs
+शब्द0568,śabda0568,Word 568,L57,vocab,Verbs
+शब्द0569,śabda0569,Word 569,L57,vocab,Verbs
+शब्द0570,śabda0570,Word 570,L57,vocab,Verbs
+शब्द0571,śabda0571,Word 571,L58,vocab,Adjectives
+शब्द0572,śabda0572,Word 572,L58,vocab,Adjectives
+शब्द0573,śabda0573,Word 573,L58,vocab,Adjectives
+शब्द0574,śabda0574,Word 574,L58,vocab,Adjectives
+शब्द0575,śabda0575,Word 575,L58,vocab,Adjectives
+शब्द0576,śabda0576,Word 576,L58,vocab,Adjectives
+शब्द0577,śabda0577,Word 577,L58,vocab,Adjectives
+शब्द0578,śabda0578,Word 578,L58,vocab,Adjectives
+शब्द0579,śabda0579,Word 579,L58,vocab,Adjectives
+शब्द0580,śabda0580,Word 580,L58,vocab,Adjectives
+शब्द0581,śabda0581,Word 581,L59,vocab,Prepositions
+शब्द0582,śabda0582,Word 582,L59,vocab,Prepositions
+शब्द0583,śabda0583,Word 583,L59,vocab,Prepositions
+शब्द0584,śabda0584,Word 584,L59,vocab,Prepositions
+शब्द0585,śabda0585,Word 585,L59,vocab,Prepositions
+शब्द0586,śabda0586,Word 586,L59,vocab,Prepositions
+शब्द0587,śabda0587,Word 587,L59,vocab,Prepositions
+शब्द0588,śabda0588,Word 588,L59,vocab,Prepositions
+शब्द0589,śabda0589,Word 589,L59,vocab,Prepositions
+शब्द0590,śabda0590,Word 590,L59,vocab,Prepositions
+शब्द0591,śabda0591,Word 591,L60,vocab,Pronouns
+शब्द0592,śabda0592,Word 592,L60,vocab,Pronouns
+शब्द0593,śabda0593,Word 593,L60,vocab,Pronouns
+शब्द0594,śabda0594,Word 594,L60,vocab,Pronouns
+शब्द0595,śabda0595,Word 595,L60,vocab,Pronouns
+शब्द0596,śabda0596,Word 596,L60,vocab,Pronouns
+शब्द0597,śabda0597,Word 597,L60,vocab,Pronouns
+शब्द0598,śabda0598,Word 598,L60,vocab,Pronouns
+शब्द0599,śabda0599,Word 599,L60,vocab,Pronouns
+शब्द0600,śabda0600,Word 600,L60,vocab,Pronouns
+शब्द0601,śabda0601,Word 601,L61,vocab,DaysMonths
+शब्द0602,śabda0602,Word 602,L61,vocab,DaysMonths
+शब्द0603,śabda0603,Word 603,L61,vocab,DaysMonths
+शब्द0604,śabda0604,Word 604,L61,vocab,DaysMonths
+शब्द0605,śabda0605,Word 605,L61,vocab,DaysMonths
+शब्द0606,śabda0606,Word 606,L61,vocab,DaysMonths
+शब्द0607,śabda0607,Word 607,L61,vocab,DaysMonths
+शब्द0608,śabda0608,Word 608,L61,vocab,DaysMonths
+शब्द0609,śabda0609,Word 609,L61,vocab,DaysMonths
+शब्द0610,śabda0610,Word 610,L61,vocab,DaysMonths
+शब्द0611,śabda0611,Word 611,L62,vocab,QuestionsPhrases
+शब्द0612,śabda0612,Word 612,L62,vocab,QuestionsPhrases
+शब्द0613,śabda0613,Word 613,L62,vocab,QuestionsPhrases
+शब्द0614,śabda0614,Word 614,L62,vocab,QuestionsPhrases
+शब्द0615,śabda0615,Word 615,L62,vocab,QuestionsPhrases
+शब्द0616,śabda0616,Word 616,L62,vocab,QuestionsPhrases
+शब्द0617,śabda0617,Word 617,L62,vocab,QuestionsPhrases
+शब्द0618,śabda0618,Word 618,L62,vocab,QuestionsPhrases
+शब्द0619,śabda0619,Word 619,L62,vocab,QuestionsPhrases
+शब्द0620,śabda0620,Word 620,L62,vocab,QuestionsPhrases
+शब्द0621,śabda0621,Word 621,L63,vocab,Misc
+शब्द0622,śabda0622,Word 622,L63,vocab,Misc
+शब्द0623,śabda0623,Word 623,L63,vocab,Misc
+शब्द0624,śabda0624,Word 624,L63,vocab,Misc
+शब्द0625,śabda0625,Word 625,L63,vocab,Misc
+शब्द0626,śabda0626,Word 626,L63,vocab,Misc
+शब्द0627,śabda0627,Word 627,L63,vocab,Misc
+शब्द0628,śabda0628,Word 628,L63,vocab,Misc
+शब्द0629,śabda0629,Word 629,L63,vocab,Misc
+शब्द0630,śabda0630,Word 630,L63,vocab,Misc
+शब्द0631,śabda0631,Word 631,L64,vocab,Greetings
+शब्द0632,śabda0632,Word 632,L64,vocab,Greetings
+शब्द0633,śabda0633,Word 633,L64,vocab,Greetings
+शब्द0634,śabda0634,Word 634,L64,vocab,Greetings
+शब्द0635,śabda0635,Word 635,L64,vocab,Greetings
+शब्द0636,śabda0636,Word 636,L64,vocab,Greetings
+शब्द0637,śabda0637,Word 637,L64,vocab,Greetings
+शब्द0638,śabda0638,Word 638,L64,vocab,Greetings
+शब्द0639,śabda0639,Word 639,L64,vocab,Greetings
+शब्द0640,śabda0640,Word 640,L64,vocab,Greetings
+शब्द0641,śabda0641,Word 641,L65,vocab,Numbers
+शब्द0642,śabda0642,Word 642,L65,vocab,Numbers
+शब्द0643,śabda0643,Word 643,L65,vocab,Numbers
+शब्द0644,śabda0644,Word 644,L65,vocab,Numbers
+शब्द0645,śabda0645,Word 645,L65,vocab,Numbers
+शब्द0646,śabda0646,Word 646,L65,vocab,Numbers
+शब्द0647,śabda0647,Word 647,L65,vocab,Numbers
+शब्द0648,śabda0648,Word 648,L65,vocab,Numbers
+शब्द0649,śabda0649,Word 649,L65,vocab,Numbers
+शब्द0650,śabda0650,Word 650,L65,vocab,Numbers
+शब्द0651,śabda0651,Word 651,L66,vocab,Family
+शब्द0652,śabda0652,Word 652,L66,vocab,Family
+शब्द0653,śabda0653,Word 653,L66,vocab,Family
+शब्द0654,śabda0654,Word 654,L66,vocab,Family
+शब्द0655,śabda0655,Word 655,L66,vocab,Family
+शब्द0656,śabda0656,Word 656,L66,vocab,Family
+शब्द0657,śabda0657,Word 657,L66,vocab,Family
+शब्द0658,śabda0658,Word 658,L66,vocab,Family
+शब्द0659,śabda0659,Word 659,L66,vocab,Family
+शब्द0660,śabda0660,Word 660,L66,vocab,Family
+शब्द0661,śabda0661,Word 661,L67,vocab,Food
+शब्द0662,śabda0662,Word 662,L67,vocab,Food
+शब्द0663,śabda0663,Word 663,L67,vocab,Food
+शब्द0664,śabda0664,Word 664,L67,vocab,Food
+शब्द0665,śabda0665,Word 665,L67,vocab,Food
+शब्द0666,śabda0666,Word 666,L67,vocab,Food
+शब्द0667,śabda0667,Word 667,L67,vocab,Food
+शब्द0668,śabda0668,Word 668,L67,vocab,Food
+शब्द0669,śabda0669,Word 669,L67,vocab,Food
+शब्द0670,śabda0670,Word 670,L67,vocab,Food
+शब्द0671,śabda0671,Word 671,L68,vocab,Animals
+शब्द0672,śabda0672,Word 672,L68,vocab,Animals
+शब्द0673,śabda0673,Word 673,L68,vocab,Animals
+शब्द0674,śabda0674,Word 674,L68,vocab,Animals
+शब्द0675,śabda0675,Word 675,L68,vocab,Animals
+शब्द0676,śabda0676,Word 676,L68,vocab,Animals
+शब्द0677,śabda0677,Word 677,L68,vocab,Animals
+शब्द0678,śabda0678,Word 678,L68,vocab,Animals
+शब्द0679,śabda0679,Word 679,L68,vocab,Animals
+शब्द0680,śabda0680,Word 680,L68,vocab,Animals
+शब्द0681,śabda0681,Word 681,L69,vocab,Colors
+शब्द0682,śabda0682,Word 682,L69,vocab,Colors
+शब्द0683,śabda0683,Word 683,L69,vocab,Colors
+शब्द0684,śabda0684,Word 684,L69,vocab,Colors
+शब्द0685,śabda0685,Word 685,L69,vocab,Colors
+शब्द0686,śabda0686,Word 686,L69,vocab,Colors
+शब्द0687,śabda0687,Word 687,L69,vocab,Colors
+शब्द0688,śabda0688,Word 688,L69,vocab,Colors
+शब्द0689,śabda0689,Word 689,L69,vocab,Colors
+शब्द0690,śabda0690,Word 690,L69,vocab,Colors
+शब्द0691,śabda0691,Word 691,L70,vocab,Body Parts
+शब्द0692,śabda0692,Word 692,L70,vocab,Body Parts
+शब्द0693,śabda0693,Word 693,L70,vocab,Body Parts
+शब्द0694,śabda0694,Word 694,L70,vocab,Body Parts
+शब्द0695,śabda0695,Word 695,L70,vocab,Body Parts
+शब्द0696,śabda0696,Word 696,L70,vocab,Body Parts
+शब्द0697,śabda0697,Word 697,L70,vocab,Body Parts
+शब्द0698,śabda0698,Word 698,L70,vocab,Body Parts
+शब्द0699,śabda0699,Word 699,L70,vocab,Body Parts
+शब्द0700,śabda0700,Word 700,L70,vocab,Body Parts
+शब्द0701,śabda0701,Word 701,L71,vocab,Nature
+शब्द0702,śabda0702,Word 702,L71,vocab,Nature
+शब्द0703,śabda0703,Word 703,L71,vocab,Nature
+शब्द0704,śabda0704,Word 704,L71,vocab,Nature
+शब्द0705,śabda0705,Word 705,L71,vocab,Nature
+शब्द0706,śabda0706,Word 706,L71,vocab,Nature
+शब्द0707,śabda0707,Word 707,L71,vocab,Nature
+शब्द0708,śabda0708,Word 708,L71,vocab,Nature
+शब्द0709,śabda0709,Word 709,L71,vocab,Nature
+शब्द0710,śabda0710,Word 710,L71,vocab,Nature
+शब्द0711,śabda0711,Word 711,L72,vocab,Household
+शब्द0712,śabda0712,Word 712,L72,vocab,Household
+शब्द0713,śabda0713,Word 713,L72,vocab,Household
+शब्द0714,śabda0714,Word 714,L72,vocab,Household
+शब्द0715,śabda0715,Word 715,L72,vocab,Household
+शब्द0716,śabda0716,Word 716,L72,vocab,Household
+शब्द0717,śabda0717,Word 717,L72,vocab,Household
+शब्द0718,śabda0718,Word 718,L72,vocab,Household
+शब्द0719,śabda0719,Word 719,L72,vocab,Household
+शब्द0720,śabda0720,Word 720,L72,vocab,Household
+शब्द0721,śabda0721,Word 721,L73,vocab,Clothing
+शब्द0722,śabda0722,Word 722,L73,vocab,Clothing
+शब्द0723,śabda0723,Word 723,L73,vocab,Clothing
+शब्द0724,śabda0724,Word 724,L73,vocab,Clothing
+शब्द0725,śabda0725,Word 725,L73,vocab,Clothing
+शब्द0726,śabda0726,Word 726,L73,vocab,Clothing
+शब्द0727,śabda0727,Word 727,L73,vocab,Clothing
+शब्द0728,śabda0728,Word 728,L73,vocab,Clothing
+शब्द0729,śabda0729,Word 729,L73,vocab,Clothing
+शब्द0730,śabda0730,Word 730,L73,vocab,Clothing
+शब्द0731,śabda0731,Word 731,L74,vocab,Time
+शब्द0732,śabda0732,Word 732,L74,vocab,Time
+शब्द0733,śabda0733,Word 733,L74,vocab,Time
+शब्द0734,śabda0734,Word 734,L74,vocab,Time
+शब्द0735,śabda0735,Word 735,L74,vocab,Time
+शब्द0736,śabda0736,Word 736,L74,vocab,Time
+शब्द0737,śabda0737,Word 737,L74,vocab,Time
+शब्द0738,śabda0738,Word 738,L74,vocab,Time
+शब्द0739,śabda0739,Word 739,L74,vocab,Time
+शब्द0740,śabda0740,Word 740,L74,vocab,Time
+शब्द0741,śabda0741,Word 741,L75,vocab,Directions
+शब्द0742,śabda0742,Word 742,L75,vocab,Directions
+शब्द0743,śabda0743,Word 743,L75,vocab,Directions
+शब्द0744,śabda0744,Word 744,L75,vocab,Directions
+शब्द0745,śabda0745,Word 745,L75,vocab,Directions
+शब्द0746,śabda0746,Word 746,L75,vocab,Directions
+शब्द0747,śabda0747,Word 747,L75,vocab,Directions
+शब्द0748,śabda0748,Word 748,L75,vocab,Directions
+शब्द0749,śabda0749,Word 749,L75,vocab,Directions
+शब्द0750,śabda0750,Word 750,L75,vocab,Directions
+शब्द0751,śabda0751,Word 751,L76,vocab,Emotions
+शब्द0752,śabda0752,Word 752,L76,vocab,Emotions
+शब्द0753,śabda0753,Word 753,L76,vocab,Emotions
+शब्द0754,śabda0754,Word 754,L76,vocab,Emotions
+शब्द0755,śabda0755,Word 755,L76,vocab,Emotions
+शब्द0756,śabda0756,Word 756,L76,vocab,Emotions
+शब्द0757,śabda0757,Word 757,L76,vocab,Emotions
+शब्द0758,śabda0758,Word 758,L76,vocab,Emotions
+शब्द0759,śabda0759,Word 759,L76,vocab,Emotions
+शब्द0760,śabda0760,Word 760,L76,vocab,Emotions
+शब्द0761,śabda0761,Word 761,L77,vocab,Professions
+शब्द0762,śabda0762,Word 762,L77,vocab,Professions
+शब्द0763,śabda0763,Word 763,L77,vocab,Professions
+शब्द0764,śabda0764,Word 764,L77,vocab,Professions
+शब्द0765,śabda0765,Word 765,L77,vocab,Professions
+शब्द0766,śabda0766,Word 766,L77,vocab,Professions
+शब्द0767,śabda0767,Word 767,L77,vocab,Professions
+शब्द0768,śabda0768,Word 768,L77,vocab,Professions
+शब्द0769,śabda0769,Word 769,L77,vocab,Professions
+शब्द0770,śabda0770,Word 770,L77,vocab,Professions
+शब्द0771,śabda0771,Word 771,L78,vocab,Verbs
+शब्द0772,śabda0772,Word 772,L78,vocab,Verbs
+शब्द0773,śabda0773,Word 773,L78,vocab,Verbs
+शब्द0774,śabda0774,Word 774,L78,vocab,Verbs
+शब्द0775,śabda0775,Word 775,L78,vocab,Verbs
+शब्द0776,śabda0776,Word 776,L78,vocab,Verbs
+शब्द0777,śabda0777,Word 777,L78,vocab,Verbs
+शब्द0778,śabda0778,Word 778,L78,vocab,Verbs
+शब्द0779,śabda0779,Word 779,L78,vocab,Verbs
+शब्द0780,śabda0780,Word 780,L78,vocab,Verbs
+शब्द0781,śabda0781,Word 781,L79,vocab,Adjectives
+शब्द0782,śabda0782,Word 782,L79,vocab,Adjectives
+शब्द0783,śabda0783,Word 783,L79,vocab,Adjectives
+शब्द0784,śabda0784,Word 784,L79,vocab,Adjectives
+शब्द0785,śabda0785,Word 785,L79,vocab,Adjectives
+शब्द0786,śabda0786,Word 786,L79,vocab,Adjectives
+शब्द0787,śabda0787,Word 787,L79,vocab,Adjectives
+शब्द0788,śabda0788,Word 788,L79,vocab,Adjectives
+शब्द0789,śabda0789,Word 789,L79,vocab,Adjectives
+शब्द0790,śabda0790,Word 790,L79,vocab,Adjectives
+शब्द0791,śabda0791,Word 791,L80,vocab,Prepositions
+शब्द0792,śabda0792,Word 792,L80,vocab,Prepositions
+शब्द0793,śabda0793,Word 793,L80,vocab,Prepositions
+शब्द0794,śabda0794,Word 794,L80,vocab,Prepositions
+शब्द0795,śabda0795,Word 795,L80,vocab,Prepositions
+शब्द0796,śabda0796,Word 796,L80,vocab,Prepositions
+शब्द0797,śabda0797,Word 797,L80,vocab,Prepositions
+शब्द0798,śabda0798,Word 798,L80,vocab,Prepositions
+शब्द0799,śabda0799,Word 799,L80,vocab,Prepositions
+शब्द0800,śabda0800,Word 800,L80,vocab,Prepositions
+शब्द0801,śabda0801,Word 801,L81,vocab,Pronouns
+शब्द0802,śabda0802,Word 802,L81,vocab,Pronouns
+शब्द0803,śabda0803,Word 803,L81,vocab,Pronouns
+शब्द0804,śabda0804,Word 804,L81,vocab,Pronouns
+शब्द0805,śabda0805,Word 805,L81,vocab,Pronouns
+शब्द0806,śabda0806,Word 806,L81,vocab,Pronouns
+शब्द0807,śabda0807,Word 807,L81,vocab,Pronouns
+शब्द0808,śabda0808,Word 808,L81,vocab,Pronouns
+शब्द0809,śabda0809,Word 809,L81,vocab,Pronouns
+शब्द0810,śabda0810,Word 810,L81,vocab,Pronouns
+शब्द0811,śabda0811,Word 811,L82,vocab,DaysMonths
+शब्द0812,śabda0812,Word 812,L82,vocab,DaysMonths
+शब्द0813,śabda0813,Word 813,L82,vocab,DaysMonths
+शब्द0814,śabda0814,Word 814,L82,vocab,DaysMonths
+शब्द0815,śabda0815,Word 815,L82,vocab,DaysMonths
+शब्द0816,śabda0816,Word 816,L82,vocab,DaysMonths
+शब्द0817,śabda0817,Word 817,L82,vocab,DaysMonths
+शब्द0818,śabda0818,Word 818,L82,vocab,DaysMonths
+शब्द0819,śabda0819,Word 819,L82,vocab,DaysMonths
+शब्द0820,śabda0820,Word 820,L82,vocab,DaysMonths
+शब्द0821,śabda0821,Word 821,L83,vocab,QuestionsPhrases
+शब्द0822,śabda0822,Word 822,L83,vocab,QuestionsPhrases
+शब्द0823,śabda0823,Word 823,L83,vocab,QuestionsPhrases
+शब्द0824,śabda0824,Word 824,L83,vocab,QuestionsPhrases
+शब्द0825,śabda0825,Word 825,L83,vocab,QuestionsPhrases
+शब्द0826,śabda0826,Word 826,L83,vocab,QuestionsPhrases
+शब्द0827,śabda0827,Word 827,L83,vocab,QuestionsPhrases
+शब्द0828,śabda0828,Word 828,L83,vocab,QuestionsPhrases
+शब्द0829,śabda0829,Word 829,L83,vocab,QuestionsPhrases
+शब्द0830,śabda0830,Word 830,L83,vocab,QuestionsPhrases
+शब्द0831,śabda0831,Word 831,L84,vocab,Misc
+शब्द0832,śabda0832,Word 832,L84,vocab,Misc
+शब्द0833,śabda0833,Word 833,L84,vocab,Misc
+शब्द0834,śabda0834,Word 834,L84,vocab,Misc
+शब्द0835,śabda0835,Word 835,L84,vocab,Misc
+शब्द0836,śabda0836,Word 836,L84,vocab,Misc
+शब्द0837,śabda0837,Word 837,L84,vocab,Misc
+शब्द0838,śabda0838,Word 838,L84,vocab,Misc
+शब्द0839,śabda0839,Word 839,L84,vocab,Misc
+शब्द0840,śabda0840,Word 840,L84,vocab,Misc
+शब्द0841,śabda0841,Word 841,L85,vocab,Greetings
+शब्द0842,śabda0842,Word 842,L85,vocab,Greetings
+शब्द0843,śabda0843,Word 843,L85,vocab,Greetings
+शब्द0844,śabda0844,Word 844,L85,vocab,Greetings
+शब्द0845,śabda0845,Word 845,L85,vocab,Greetings
+शब्द0846,śabda0846,Word 846,L85,vocab,Greetings
+शब्द0847,śabda0847,Word 847,L85,vocab,Greetings
+शब्द0848,śabda0848,Word 848,L85,vocab,Greetings
+शब्द0849,śabda0849,Word 849,L85,vocab,Greetings
+शब्द0850,śabda0850,Word 850,L85,vocab,Greetings
+शब्द0851,śabda0851,Word 851,L86,vocab,Numbers
+शब्द0852,śabda0852,Word 852,L86,vocab,Numbers
+शब्द0853,śabda0853,Word 853,L86,vocab,Numbers
+शब्द0854,śabda0854,Word 854,L86,vocab,Numbers
+शब्द0855,śabda0855,Word 855,L86,vocab,Numbers
+शब्द0856,śabda0856,Word 856,L86,vocab,Numbers
+शब्द0857,śabda0857,Word 857,L86,vocab,Numbers
+शब्द0858,śabda0858,Word 858,L86,vocab,Numbers
+शब्द0859,śabda0859,Word 859,L86,vocab,Numbers
+शब्द0860,śabda0860,Word 860,L86,vocab,Numbers
+शब्द0861,śabda0861,Word 861,L87,vocab,Family
+शब्द0862,śabda0862,Word 862,L87,vocab,Family
+शब्द0863,śabda0863,Word 863,L87,vocab,Family
+शब्द0864,śabda0864,Word 864,L87,vocab,Family
+शब्द0865,śabda0865,Word 865,L87,vocab,Family
+शब्द0866,śabda0866,Word 866,L87,vocab,Family
+शब्द0867,śabda0867,Word 867,L87,vocab,Family
+शब्द0868,śabda0868,Word 868,L87,vocab,Family
+शब्द0869,śabda0869,Word 869,L87,vocab,Family
+शब्द0870,śabda0870,Word 870,L87,vocab,Family
+शब्द0871,śabda0871,Word 871,L88,vocab,Food
+शब्द0872,śabda0872,Word 872,L88,vocab,Food
+शब्द0873,śabda0873,Word 873,L88,vocab,Food
+शब्द0874,śabda0874,Word 874,L88,vocab,Food
+शब्द0875,śabda0875,Word 875,L88,vocab,Food
+शब्द0876,śabda0876,Word 876,L88,vocab,Food
+शब्द0877,śabda0877,Word 877,L88,vocab,Food
+शब्द0878,śabda0878,Word 878,L88,vocab,Food
+शब्द0879,śabda0879,Word 879,L88,vocab,Food
+शब्द0880,śabda0880,Word 880,L88,vocab,Food
+शब्द0881,śabda0881,Word 881,L89,vocab,Animals
+शब्द0882,śabda0882,Word 882,L89,vocab,Animals
+शब्द0883,śabda0883,Word 883,L89,vocab,Animals
+शब्द0884,śabda0884,Word 884,L89,vocab,Animals
+शब्द0885,śabda0885,Word 885,L89,vocab,Animals
+शब्द0886,śabda0886,Word 886,L89,vocab,Animals
+शब्द0887,śabda0887,Word 887,L89,vocab,Animals
+शब्द0888,śabda0888,Word 888,L89,vocab,Animals
+शब्द0889,śabda0889,Word 889,L89,vocab,Animals
+शब्द0890,śabda0890,Word 890,L89,vocab,Animals
+शब्द0891,śabda0891,Word 891,L90,vocab,Colors
+शब्द0892,śabda0892,Word 892,L90,vocab,Colors
+शब्द0893,śabda0893,Word 893,L90,vocab,Colors
+शब्द0894,śabda0894,Word 894,L90,vocab,Colors
+शब्द0895,śabda0895,Word 895,L90,vocab,Colors
+शब्द0896,śabda0896,Word 896,L90,vocab,Colors
+शब्द0897,śabda0897,Word 897,L90,vocab,Colors
+शब्द0898,śabda0898,Word 898,L90,vocab,Colors
+शब्द0899,śabda0899,Word 899,L90,vocab,Colors
+शब्द0900,śabda0900,Word 900,L90,vocab,Colors
+शब्द0901,śabda0901,Word 901,L91,vocab,Body Parts
+शब्द0902,śabda0902,Word 902,L91,vocab,Body Parts
+शब्द0903,śabda0903,Word 903,L91,vocab,Body Parts
+शब्द0904,śabda0904,Word 904,L91,vocab,Body Parts
+शब्द0905,śabda0905,Word 905,L91,vocab,Body Parts
+शब्द0906,śabda0906,Word 906,L91,vocab,Body Parts
+शब्द0907,śabda0907,Word 907,L91,vocab,Body Parts
+शब्द0908,śabda0908,Word 908,L91,vocab,Body Parts
+शब्द0909,śabda0909,Word 909,L91,vocab,Body Parts
+शब्द0910,śabda0910,Word 910,L91,vocab,Body Parts
+शब्द0911,śabda0911,Word 911,L92,vocab,Nature
+शब्द0912,śabda0912,Word 912,L92,vocab,Nature
+शब्द0913,śabda0913,Word 913,L92,vocab,Nature
+शब्द0914,śabda0914,Word 914,L92,vocab,Nature
+शब्द0915,śabda0915,Word 915,L92,vocab,Nature
+शब्द0916,śabda0916,Word 916,L92,vocab,Nature
+शब्द0917,śabda0917,Word 917,L92,vocab,Nature
+शब्द0918,śabda0918,Word 918,L92,vocab,Nature
+शब्द0919,śabda0919,Word 919,L92,vocab,Nature
+शब्द0920,śabda0920,Word 920,L92,vocab,Nature
+शब्द0921,śabda0921,Word 921,L93,vocab,Household
+शब्द0922,śabda0922,Word 922,L93,vocab,Household
+शब्द0923,śabda0923,Word 923,L93,vocab,Household
+शब्द0924,śabda0924,Word 924,L93,vocab,Household
+शब्द0925,śabda0925,Word 925,L93,vocab,Household
+शब्द0926,śabda0926,Word 926,L93,vocab,Household
+शब्द0927,śabda0927,Word 927,L93,vocab,Household
+शब्द0928,śabda0928,Word 928,L93,vocab,Household
+शब्द0929,śabda0929,Word 929,L93,vocab,Household
+शब्द0930,śabda0930,Word 930,L93,vocab,Household
+शब्द0931,śabda0931,Word 931,L94,vocab,Clothing
+शब्द0932,śabda0932,Word 932,L94,vocab,Clothing
+शब्द0933,śabda0933,Word 933,L94,vocab,Clothing
+शब्द0934,śabda0934,Word 934,L94,vocab,Clothing
+शब्द0935,śabda0935,Word 935,L94,vocab,Clothing
+शब्द0936,śabda0936,Word 936,L94,vocab,Clothing
+शब्द0937,śabda0937,Word 937,L94,vocab,Clothing
+शब्द0938,śabda0938,Word 938,L94,vocab,Clothing
+शब्द0939,śabda0939,Word 939,L94,vocab,Clothing
+शब्द0940,śabda0940,Word 940,L94,vocab,Clothing
+शब्द0941,śabda0941,Word 941,L95,vocab,Time
+शब्द0942,śabda0942,Word 942,L95,vocab,Time
+शब्द0943,śabda0943,Word 943,L95,vocab,Time
+शब्द0944,śabda0944,Word 944,L95,vocab,Time
+शब्द0945,śabda0945,Word 945,L95,vocab,Time
+शब्द0946,śabda0946,Word 946,L95,vocab,Time
+शब्द0947,śabda0947,Word 947,L95,vocab,Time
+शब्द0948,śabda0948,Word 948,L95,vocab,Time
+शब्द0949,śabda0949,Word 949,L95,vocab,Time
+शब्द0950,śabda0950,Word 950,L95,vocab,Time
+शब्द0951,śabda0951,Word 951,L96,vocab,Directions
+शब्द0952,śabda0952,Word 952,L96,vocab,Directions
+शब्द0953,śabda0953,Word 953,L96,vocab,Directions
+शब्द0954,śabda0954,Word 954,L96,vocab,Directions
+शब्द0955,śabda0955,Word 955,L96,vocab,Directions
+शब्द0956,śabda0956,Word 956,L96,vocab,Directions
+शब्द0957,śabda0957,Word 957,L96,vocab,Directions
+शब्द0958,śabda0958,Word 958,L96,vocab,Directions
+शब्द0959,śabda0959,Word 959,L96,vocab,Directions
+शब्द0960,śabda0960,Word 960,L96,vocab,Directions
+शब्द0961,śabda0961,Word 961,L97,vocab,Emotions
+शब्द0962,śabda0962,Word 962,L97,vocab,Emotions
+शब्द0963,śabda0963,Word 963,L97,vocab,Emotions
+शब्द0964,śabda0964,Word 964,L97,vocab,Emotions
+शब्द0965,śabda0965,Word 965,L97,vocab,Emotions
+शब्द0966,śabda0966,Word 966,L97,vocab,Emotions
+शब्द0967,śabda0967,Word 967,L97,vocab,Emotions
+शब्द0968,śabda0968,Word 968,L97,vocab,Emotions
+शब्द0969,śabda0969,Word 969,L97,vocab,Emotions
+शब्द0970,śabda0970,Word 970,L97,vocab,Emotions
+शब्द0971,śabda0971,Word 971,L98,vocab,Professions
+शब्द0972,śabda0972,Word 972,L98,vocab,Professions
+शब्द0973,śabda0973,Word 973,L98,vocab,Professions
+शब्द0974,śabda0974,Word 974,L98,vocab,Professions
+शब्द0975,śabda0975,Word 975,L98,vocab,Professions
+शब्द0976,śabda0976,Word 976,L98,vocab,Professions
+शब्द0977,śabda0977,Word 977,L98,vocab,Professions
+शब्द0978,śabda0978,Word 978,L98,vocab,Professions
+शब्द0979,śabda0979,Word 979,L98,vocab,Professions
+शब्द0980,śabda0980,Word 980,L98,vocab,Professions
+शब्द0981,śabda0981,Word 981,L99,vocab,Verbs
+शब्द0982,śabda0982,Word 982,L99,vocab,Verbs
+शब्द0983,śabda0983,Word 983,L99,vocab,Verbs
+शब्द0984,śabda0984,Word 984,L99,vocab,Verbs
+शब्द0985,śabda0985,Word 985,L99,vocab,Verbs
+शब्द0986,śabda0986,Word 986,L99,vocab,Verbs
+शब्द0987,śabda0987,Word 987,L99,vocab,Verbs
+शब्द0988,śabda0988,Word 988,L99,vocab,Verbs
+शब्द0989,śabda0989,Word 989,L99,vocab,Verbs
+शब्द0990,śabda0990,Word 990,L99,vocab,Verbs
+शब्द0991,śabda0991,Word 991,L100,vocab,Adjectives
+शब्द0992,śabda0992,Word 992,L100,vocab,Adjectives
+शब्द0993,śabda0993,Word 993,L100,vocab,Adjectives
+शब्द0994,śabda0994,Word 994,L100,vocab,Adjectives
+शब्द0995,śabda0995,Word 995,L100,vocab,Adjectives
+शब्द0996,śabda0996,Word 996,L100,vocab,Adjectives
+शब्द0997,śabda0997,Word 997,L100,vocab,Adjectives
+शब्द0998,śabda0998,Word 998,L100,vocab,Adjectives
+शब्द0999,śabda0999,Word 999,L100,vocab,Adjectives
+शब्द1000,śabda1000,Word 1000,L100,vocab,Adjectives
